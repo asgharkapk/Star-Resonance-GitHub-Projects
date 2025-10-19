@@ -313,6 +313,20 @@ Use responsibly and follow the game’s terms of service.
 
 ---
 
+[**NeRooNx/BPSR-Meter**](https://github.com/NeRooNx/BPSR-Meter)
+- A real-time DPS/HPS meter overlay for Blue Protocol: Soul Resurrection
+- Built with Electron and advanced packet sniffing capabilities
+- Tracks damage and healing per second with 50ms updates
+- Supports dual view modes: Nearby (Top 10 players + you) and Solo (personal stats)
+- Features include channel change detection, class icons, HP bars, and damage contribution visualization
+- Offers rank badges 🥇🥈🥉 and blue highlight for local player
+- Customizable interface with draggable, lockable, and always-on-top transparent window
+- Includes click-through mode for seamless in-game overlay usage
+- Minimalistic and responsive design optimized for real-time gameplay analysis
+![BPSR-Meter](https://raw.githubusercontent.com/NeRooNx/BPSR-Meter/master/medidor.png)
+
+---
+
 🗺️ Complete Guide to the Best *Star Resonance* & *Blue Protocol* Interactive Maps – Resources, Features, and Community Tips
 
 ---
