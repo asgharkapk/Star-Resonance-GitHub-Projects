@@ -287,6 +287,32 @@ Use responsibly and follow the game’s terms of service.
 
 ---
 
+[**Chase-Simmons/BPSR-PSO**](https://github.com/Chase-Simmons/BPSR-PSO)
+
+* Blue Protocol: Star Resonance - Per Second Overlay (PSO) provides a GUI to track DPS/HPS for nearby players.
+* Standalone packet analyzer that does not modify BPSR files.
+* Built with Node.js and Npcap for real-time combat data tracking.
+
+**Pros:**
+
+* Non-invasive and does not require modifying game files.
+* Offers clear, visual DPS/HPS metrics.
+* Easy setup for developers (Node.js + npm).
+
+**Cons:**
+
+* Requires Npcap installation with WinPcap API compatibility.
+* Windows-only (Npcap dependency).
+* Might need admin rights for packet capture.
+
+**User comments:**
+
+* Users report it works reliably for monitoring nearby player performance.
+* Some note setup complexity due to Npcap configuration.
+* Generally praised for being a clean, standalone overlay tool.
+
+---
+
 🗺️ Complete Guide to the Best *Star Resonance* & *Blue Protocol* Interactive Maps – Resources, Features, and Community Tips
 
 ---
