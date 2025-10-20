@@ -1,3 +1,5 @@
+# Star-Resonance-GitHub-Projects
+
 A compilation of open-source projects for Star Resonance (Blue Protocol).
 These tools cover DPS meters, overlays, bots, asset extraction, and community utilities.
 Use responsibly and follow the game’s terms of service.
@@ -353,5 +355,17 @@ Fan-made content, guides, and overlays extending gameplay understanding.
 * Blue Protocol: Star Resonance - Per Second Overlay (PSO) provides a GUI to track DPS/HPS for nearby players.
 * Standalone packet analyzer that does not modify BPSR files.
 * Built with Node.js and Npcap for real-time combat data tracking.
+**Pros:**
+* Non-invasive and does not require modifying game files.
+* Offers clear, visual DPS/HPS metrics.
+* Easy setup for developers (Node.js + npm).
+**Cons:**
+* Requires Npcap installation with WinPcap API compatibility.
+* Windows-only (Npcap dependency).
+* Might need admin rights for packet capture.
+**User comments:**
+* Users report it works reliably for monitoring nearby player performance.
+* Some note setup complexity due to Npcap configuration.
+* Generally praised for being a clean, standalone overlay tool.
 
 
