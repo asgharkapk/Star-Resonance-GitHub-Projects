@@ -323,3 +323,14 @@ Use responsibly and follow the game’s terms of service.
 - Minimalistic and responsive design optimized for real-time gameplay analysis
 ![BPSR-Meter](https://raw.githubusercontent.com/NeRooNx/BPSR-Meter/master/medidor.png)
 
+---
+
+[**DannyDog/StarResonanceDps**](https://github.com/DannyDog/StarResonanceDps)
+* Star Resonance DPS Statistics Tool
+* Based on and ported from the StarResonanceDamageCounter project
+* Does not modify the game client or violate game terms of service
+* Designed to help players analyze combat data and improve performance
+* Requires .NET 8.0 runtime
+* Licensed under AGPL v3
+* Open for community contributions via Issues and Pull Requests
+* Intended for fair use only — do not use for player discrimination or to harm the game community
