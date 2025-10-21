@@ -92,6 +92,27 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 
 ---
 
+### **Overlay Utilities**
+
+[**Chase-Simmons/BPSR-PSO**](https://github.com/Chase-Simmons/BPSR-PSO)
+* Blue Protocol: Star Resonance - Per Second Overlay (PSO) provides a GUI to track DPS/HPS for nearby players.
+* Standalone packet analyzer that does not modify BPSR files.
+* Built with Node.js and Npcap for real-time combat data tracking.
+**Pros:**
+* Non-invasive and does not require modifying game files.
+* Offers clear, visual DPS/HPS metrics.
+* Easy setup for developers (Node.js + npm).
+**Cons:**
+* Requires Npcap installation with WinPcap API compatibility.
+* Windows-only (Npcap dependency).
+* Might need admin rights for packet capture.
+**User comments:**
+* Users report it works reliably for monitoring nearby player performance.
+* Some note setup complexity due to Npcap configuration.
+* Generally praised for being a clean, standalone overlay tool.
+
+---
+
 ### **APIs and Integration**
 
 > Data endpoints or frameworks to expose, transform, or extend DPS data.
@@ -346,27 +367,6 @@ Fan-made content, guides, and overlays extending gameplay understanding.
 * Developed specifically for the STARWIND Guild to monitor upcoming in-game events.
 * Displays real-time countdowns for limited-time content, raids, and special seasonal events.
 * Helps guild members coordinate participation and stay synchronized with in-game schedules.
-
----
-
-### **Overlay Utilities**
-
-[**Chase-Simmons/BPSR-PSO**](https://github.com/Chase-Simmons/BPSR-PSO)
-* Blue Protocol: Star Resonance - Per Second Overlay (PSO) provides a GUI to track DPS/HPS for nearby players.
-* Standalone packet analyzer that does not modify BPSR files.
-* Built with Node.js and Npcap for real-time combat data tracking.
-**Pros:**
-* Non-invasive and does not require modifying game files.
-* Offers clear, visual DPS/HPS metrics.
-* Easy setup for developers (Node.js + npm).
-**Cons:**
-* Requires Npcap installation with WinPcap API compatibility.
-* Windows-only (Npcap dependency).
-* Might need admin rights for packet capture.
-**User comments:**
-* Users report it works reliably for monitoring nearby player performance.
-* Some note setup complexity due to Npcap configuration.
-* Generally praised for being a clean, standalone overlay tool.
 
 ---
 
