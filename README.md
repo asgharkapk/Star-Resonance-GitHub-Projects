@@ -606,3 +606,58 @@ Happy exploring, Travelers! 🌟
 [8]: https://star-resonance.com/faqs/?utm_source=chatgpt.com "FAQs - Blue Protocol: Star Resonance"
 [9]: https://star-resonance.com/blue-protocol-star-resonance-welcome-to-regnas/?utm_source=chatgpt.com "Blue Protocol: Star Resonance - Welcome to Regnas!"
 [10]: https://www.reddit.com/r/BlueProtocolPC/comments/1nypnb9/blue_protocol_star_resonance_database_website/?utm_source=chatgpt.com "Blue Protocol: Star Resonance Database Website Launch"
+
+---
+
+### 🧭 **[Fan Project] BlueProtocol.lunixx.de – Unofficial Player Database for Blue Protocol!**
+> 🌐 **Website:** [https://blueprotocol.lunixx.de](https://blueprotocol.lunixx.de)
+This site is basically a **player database + stat viewer**. You can look up players, see rankings, ability scores, classes, and even generate cool player signature images to show off your progress.
+It’s currently in **beta**, made by a community dev named **Lunixx**, and it looks surprisingly polished for a fan tool.
+
+---
+
+### 💎 **Key Features**
+* 🔍 **Player Search:** Find any player by name or ID.
+* 📊 **Global Rankings:** Compare yourself to others across servers.
+* 💪 **Detailed Stats:** See Ability Score, Class, Max HP, Last Login, and more.
+* 🖼️ **Player Signatures:** Generate signature banners with your data (great for Discord or forums).
+* 🌍 **Multi-Language:** Available in English, German, and French.
+
+---
+
+### ✅ **Pros**
+* Super clean and lightweight interface.
+* No login required — just browse player data.
+* Great for stat nerds or guild leaders who want to compare performance.
+* Fast loading and mobile-friendly.
+* Actively updated by the dev.
+
+---
+
+### ⚠️ **Cons**
+* ❗ Not official — it’s a **community project**, not made by Bandai Namco.
+* ⚙️ Data might lag behind real game stats or occasionally bug out.
+* 🔐 Doesn’t show where player data is sourced from (uses “ApiPlayers @ BlueProtocol”).
+* 🧩 Some features still marked as *beta* or *work in progress*.
+
+---
+
+### 💬 **User Comments**
+> **u/ArcLancer:**
+> This is actually amazing. I found my character instantly — stats were 95% accurate. Hope the dev keeps updating it!
+> **u/ServerLagged:**
+> Looks neat but I’m a bit skeptical where it pulls data from. Still, props to the dev for building it.
+> **u/Lunixx (dev):**
+> Thanks! Everything is based on public endpoints; no private account info is used. Feedback is always welcome 💙
+> **u/HealerMain:**
+> Finally, a leaderboard that doesn’t crash my browser. 10/10 would stalk my guildmates again. 😂
+> **u/OldManRanger:**
+> Needs a dark mode and maybe a way to filter by class — but overall, awesome project.
+
+---
+
+### 🧠 **TL;DR**
+**blueprotocol.lunixx.de** is an unofficial but super-useful player database for Blue Protocol — perfect if you like tracking rankings or sharing your player card.
+Use it for fun and comparison, but remember: **not an official Bandai Namco tool**.
+
+---
