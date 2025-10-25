@@ -108,6 +108,7 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * Might need admin rights for packet capture.
 **User comments:**
 * Users report it works reliably for monitoring nearby player performance.
+![pso](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fverdant-oracle-smite-seems-to-have-good-damage-and-healing-v0-cakpr0lb4wwf1.png%3Fwidth%3D320%26crop%3Dsmart%26auto%3Dwebp%26s%3D1b08ef2d7fc5f94d22884b2cf58441e334e05f90)
 
 ---
 
