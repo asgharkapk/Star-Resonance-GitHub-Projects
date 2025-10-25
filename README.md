@@ -110,6 +110,7 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * Users report it works reliably for monitoring nearby player performance.
 * Some note setup complexity due to Npcap configuration.
 * Generally praised for being a clean, standalone overlay tool.
+
 ![pso](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/image_2025-10-25_155740907.png)
 
 ---
