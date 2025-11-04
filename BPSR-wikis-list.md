@@ -498,3 +498,49 @@ Track boss spawns, special creatures, and event timers in Blue Protocol: Star Re
 
 ---
 
+
+---
+
+## 🌟 Blue Protocol Checklist
+
+**Stay on top of your Blue Protocol journey — never miss a daily or weekly task again!**
+Track your progress, monitor resets, and keep your adventure perfectly organized.
+
+🔗 **Website / Repository:** [github.com/Teawase/blue-protocol-checklist](https://github.com/Teawase/blue-protocol-checklist)
+
+---
+
+### 🧾 Features
+
+* ✅ **Daily & Weekly Task Tracking** – Mark off what you’ve completed with one click.
+* 🕓 **Live Reset Timers** – Stay synced with global in-game reset times.
+* 💾 **Local Save System** – Your data is stored safely in your browser.
+* 📦 **Import / Export Progress** – Backup your progress or share it across devices.
+* 🎉 **Satisfying Completion Feedback** – Confetti and progress bars to celebrate your grind!
+* 📱 **Fully Responsive** – Works on both desktop and mobile browsers.
+
+---
+
+### 💡 Why Use It?
+
+If you love *Blue Protocol* but hate forgetting what you’ve done today, this tool is your perfect companion.
+It’s fast, private, and fully customizable — no login required, no server, just your browser.
+
+---
+
+### 🔧 How to Use
+
+1. Open the site or host your own version.
+2. Check off tasks as you complete them.
+3. Watch your completion bars rise and celebrate your efficiency.
+4. Export your data to stay synced anywhere you go.
+
+---
+
+### 🗺️ Open Source
+
+This project is **completely open-source** — contribute new features, improve UI, or translate it for your community!
+
+👉 **Visit now:** [https://github.com/Teawase/blue-protocol-checklist](https://github.com/Teawase/blue-protocol-checklist)
+
+---
