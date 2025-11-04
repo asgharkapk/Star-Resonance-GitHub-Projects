@@ -286,3 +286,68 @@ This tracker helps **players**, **guilds**, and **event planners** stay organize
 ---
 
 
+---
+
+# QuestLog – Blue Protocol Companion
+
+[![Website](https://questlog.gg/blue-protocol/en)](https://questlog.gg/blue-protocol/en)
+
+## 📘 What is QuestLog?
+
+Welcome to **QuestLog** — an interactive companion site created for the action-RPG Blue Protocol.
+This website is designed to help players navigate, track and optimise their adventures in Blue Protocol.
+
+### Key features
+
+* Access a curated database of quests, foes, loot, map regions, and more.
+* Interactive maps showing major zones, sub-areas and points of interest.
+* Filters and search tools to quickly find what you’re looking for (e.g., “quests in region X”, “boss Y drop table”, “map markers”).
+* Up-to-date information and community-driven contributions (where applicable).
+* Mobile-friendly layout so you can use it on the go while playing.
+
+## 🎮 Who is it for?
+
+* **New players** looking for guidance on how to progress through Blue Protocol.
+* **Veteran players** looking to complete all quests, find every loot drop or optimize routes.
+* **Completionists** aiming for 100% map coverage, full collectibles, and tracking side quests.
+* **Community contributors** who want to help build and update the database.
+
+## 🧭 How to use it
+
+1. Navigate to the site and select your desired region, questline or gameplay objective.
+2. Use the search bar or filters to locate specific content (e.g., NPC name, quest title, item drop).
+3. Click on a map region to reveal detailed points of interest, quest start-locations, hidden treasures or bosses.
+4. Mark your progress: as you complete quests or find items, track them (if the site supports checklist or account sync features).
+5. Stay updated: check for new releases, seasonal content, and community-added entries.
+
+## 🚀 Why this site?
+
+The goal of QuestLog is to offer a **centralised, user-friendly and reliable** resource for Blue Protocol players.
+Instead of toggling between multiple forums, wiki pages and spreadsheets, you get everything in one place.
+Whether you’re grinding for loot, finishing a questline, or exploring every nook of the map — QuestLog is here to back you up.
+
+## 🛠️ Technical & Contribution Notes
+
+* Built using [insert tech stack: e.g., React / Vue / Nuxt / Svelte etc] (update as appropriate).
+* Data sources: [mention whether from official game docs, community contributions, scraped data etc].
+* Contributions: Users can suggest edits, new entries or report outdated information via [link or email].
+* License: [insert relevant open-source license, if applicable].
+* Privacy: No tracking of personal data beyond what is required for site features; further details in the privacy policy.
+
+## 🔄 Roadmap & Future Features
+
+* Account integration: sign in to track your progress across devices.
+* Collaborative features: user comments, ratings, and “did you find this?” checklists.
+* Seasonal / event content updates.
+* Multi-language support (if not already included).
+* Mobile-app companion or PWA for offline usage.
+
+## ✅ Final Note
+
+Thanks for visiting QuestLog!
+We hope it becomes your go-to companion for exploring everything that Blue Protocol has to offer.
+If you find any bugs or missing entries, please let us know — together we can keep the database fresh and comprehensive.
+
+---
+
+
