@@ -351,3 +351,49 @@ If you find any bugs or missing entries, please let us know — together we can 
 ---
 
 
+---
+
+## 🎮 Discover the Talent Planner for Star Resonance
+
+Explore the ultimate build-planning tool for your characters in Star Resonance!
+🔗 Visit: [Talent Planner](https://bpsrtalent.vercel.app/)
+
+---
+
+### 🔍 Why You’ll Love It
+
+* **Comprehensive Build Planning** — Choose from 8 unique classes with specialized talent trees and game-styles. ([bpsrtalent.vercel.app][1])
+* **Smart Dependencies & Valid Builds** — The planner tracks prerequisites automatically to keep your build valid. ([bpsrtalent.vercel.app][1])
+* **Shareable Links** — Easily save or share your builds with friends or for reference later. ([bpsrtalent.vercel.app][1])
+
+---
+
+### ✨ Features at a Glance
+
+* Select major classes like:
+
+  * Damage dealers: “Frost Mage”, “Stormblade”, “Marksman”, “Wind Knight”
+  * Tanks: “Heavy Guardian”, “Shield Knight”
+  * Support: “Verdant Oracle”, “Beat Performer” ([bpsrtalent.vercel.app][1])
+* Each class has two specializations (e.g., Frost Mage → Icicle Spec & Frostbeam Spec) ([bpsrtalent.vercel.app][1])
+* Build requirements: 30 base skill points before unlocking spec tree; up to 70 total talent points to distribute. ([bpsrtalent.vercel.app][1])
+
+---
+
+### 📌 Tip for Builders
+
+1. Choose your class that fits your play-style.
+2. Plan the first 30 base points to unlock the path you like.
+3. Allocate up to 70 points total — keep dependencies and prerequisites in mind.
+4. Save or share your build link before diving in game.
+
+---
+
+### 🚀 Get Started Now
+
+Click the link above, pick a class, and start sculpting your character’s talents. Whether you’re gearing for high DPS, sturdy defense, or team-support, this tool gives you clarity and control.
+
+---
+
+[1]: https://bpsrtalent.vercel.app/ "BPSR Talent Planner"
+
