@@ -439,7 +439,8 @@ A detailed list of the most active and resourceful Discord communities dedicated
 ---
 
 ## 🌾 **2. BPSR Farmers Hub**
-🔗 **Invite:** [https://discord.gg/bpsrfarmers](https://discord.gg/bpsrfarmers)  
+🔗 **Invite:** [BP:SR Farmers](https://discord.gg/bpsrfarmers)  
+🔗 **Invite:** [BPSR Rarefarmers](https://discord.gg/tPb3zAVZ2Z)  
 🌾 **Focus:** A community-driven hub dedicated to **farming routes**, **resource optimization**, and **crafting efficiency** in both *Blue Protocol* and *Star Resonance*.  
 💬 **Features:**
 - Daily farming route sharing and optimization discussions.  
