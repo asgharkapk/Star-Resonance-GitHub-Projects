@@ -1,4 +1,3 @@
-```markdown
 # 🌌 **Blue Protocol & Star Resonance Discord Server Directory**
 
 A detailed list of the most active and resourceful Discord communities dedicated to **Blue Protocol** and **Star Resonance (BPSR)**. Whether you're looking for game guides, farming groups, database resources, or community events, these servers will help you connect with fellow players and stay up-to-date with the latest information.
@@ -96,4 +95,3 @@ A detailed list of the most active and resourceful Discord communities dedicated
 ---
 
 > ⚡ *Join these servers to connect with experts, contribute to research, and enhance your Star Resonance and Blue Protocol experience!*
-```
