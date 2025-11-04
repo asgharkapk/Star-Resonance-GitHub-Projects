@@ -1,4 +1,4 @@
-# Star-Resonance-GitHub-Projects
+<img width="399" height="221" alt="image" src="https://github.com/user-attachments/assets/3248445a-4d1e-4d45-ac5e-d87f27a2f83c" /># Star-Resonance-GitHub-Projects
 
 A compilation of open-source projects for Star Resonance (Blue Protocol).
 These tools cover DPS meters, overlays, bots, asset extraction, and community utilities.
@@ -52,6 +52,55 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 - Includes click-through mode for seamless in-game overlay usage
 - Minimalistic and responsive design optimized for real-time gameplay analysis
 ![BPSR-Meter](https://raw.githubusercontent.com/NeRooNx/BPSR-Meter/master/medidor.png)
+
+[**ssalihsrz/InfamousBPSRDPSMeter**](https://github.com/ssalihsrz/InfamousBPSRDPSMeter)
+* Infamous Blue Protocol: Star Resonance DPS Meter
+* Real-time damage tracking and performance analysis tool
+* Inspired by similar DPS meters from popular online RPGs
+* Built to provide transparent and fair player statistics
+* Supports customizable overlays and detailed combat summaries
+* Requires .NET runtime and in-game data parsing setup
+* Community-driven project — feedback and contributions are welcome
+* Intended for educational and analytical use only
+
+[**Sola-Ray/BPSR-PSO-SX**](https://github.com/Sola-Ray/BPSR-PSO-SX)
+* Blue Protocol: Star Resonance Plug-in System (PSO-SX)
+* Modular enhancement framework for Star Resonance utilities
+* Includes support for performance tracking, overlays, and UI extensions
+* Focused on stability, modularity, and community plugin development
+* Compatible with various Star Resonance helper tools
+* Written in C# with modern architecture design
+* Licensed under open-source terms for collaborative development
+* For fair and transparent gameplay analytics only
+Below are some example views of the overlay in action:  
+
+<p align="center">
+  <img width="399" height="221" alt="DPS overlay example" src="https://github.com/user-attachments/assets/44cd0ce2-ac2c-4b99-b371-8965ea2086f2" />
+  <br/>
+  <em>Real-time DPS display showing nearby players’ output.</em>
+</p>
+
+<p align="center">
+  <img width="392" height="224" alt="Detailed metrics panel" src="https://github.com/user-attachments/assets/8a5a7e88-1237-4c16-a0f0-f5c0afb3eb91" />
+  <br/>
+  <em>Real-time HPS display showing nearby players’ output.</em>
+</p>
+
+<p align="center">
+  <img width="718" height="903" alt="Extended Sola view" src="https://github.com/user-attachments/assets/c49598b7-cc21-45e6-867a-0639d847680b" />
+  <br/>
+  <em>“Sola Extended” view with enhanced tracking and session analytics.</em>
+</p>
+
+[**woheedev/bptimer**](https://github.com/woheedev/bptimer)
+* Blue Protocol Timer Utility
+* Comprehensive time tracking and boss/event scheduling tool
+* Supports multiple regions and synchronized server times
+* Built with web-based UI for easy access and portability
+* Features countdowns, alerts, and world boss tracking
+* Ideal for players and communities organizing events
+* Continuously updated with global Blue Protocol content
+* Open-source and community-maintained for accuracy and fairness
 
 ---
 
