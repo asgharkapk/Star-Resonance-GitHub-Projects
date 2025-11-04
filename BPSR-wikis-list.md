@@ -441,6 +441,59 @@ Track your performance, view real-time DPS/HPS rankings, and connect with the Fr
 
 ---
 
+---
+
+## ⏱️ Never Miss a Spawn With BP Timer
+
+Track boss spawns, special creatures, and event timers in Blue Protocol: Star Resonance in real-time!
+🔗 Visit: [bptimer.com](https://bptimer.com/)
+
+---
+
+### 🔍 What Makes It Awesome
+
+* **Live spawn tracking** — See when field bosses and magical creatures will appear, so you’re ready when they show up. ([Blue Protocol Timer][1])
+* **Community-driven updates** — The data is fed by players and tools like the DPS Meter, keeping things fresh and accurate. ([GitHub][2])
+* **Easy to use interface** — Browse timers, mark favourites, and stay on top of events without clutter. ([Blue Protocol Timer][3])
+
+---
+
+### ✨ Key Features At A Glance
+
+* View **boss spawn timers**, **magical creature spawn timers**, and event uptimes. ([Blue Protocol Timer][4])
+* Create and manage your **favorites list** to keep an eye on the ones you care about most. ([Blue Protocol Timer][3])
+* Transparent **open-source project**, built with SvelteKit and PocketBase — feel free to explore the code or contribute. ([GitHub][2])
+
+---
+
+### 📌 How to Get Started
+
+1. Visit [bptimer.com](https://bptimer.com/)
+2. Browse the spawn timer tables for bosses or special creatures.
+3. Use the favourites feature to track your key targets.
+4. Use this each session to ensure you’re at the right place when the spawn happens.
+
+---
+
+### 🚀 Why You Should Use It
+
+* **Stay competitive** — Knowing exactly when a boss appears gives you the edge for drops, loot runs, or group content.
+* **Save time** — No more “did I miss it?” confusion. Countdown timers let you schedule your play.
+* **Plug into the community** — This tool ties into the wider Blue Protocol: Star Resonance ecosystem; use it to coordinate with friends and allies.
+
+---
+
+> “If you’re serious about tracking spawns in Blue Protocol: Star Resonance, BP Timer is a simple must-have.”
+
+---
+
+
+[1]: https://bptimer.com/?utm_source=chatgpt.com "Boss Spawn Tracker | BP Timer"
+[2]: https://github.com/woheedev/bptimer?utm_source=chatgpt.com "Web panel to display live data from Blue Protocol: Star ..."
+[3]: https://bptimer.com/favorites?utm_source=chatgpt.com "Favorites - Boss Spawn Tracker | BP Timer"
+[4]: https://bptimer.com/magical-creatures?utm_source=chatgpt.com "Magical Creatures Tracker | BP Timer"
+
+
 > “A must-visit hub for every French Blue Protocol player — simple, clear, and packed with useful data.”
 
 ---
