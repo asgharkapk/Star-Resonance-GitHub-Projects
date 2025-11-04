@@ -194,3 +194,95 @@ Use it for fun and comparison, but remember: **not an official Bandai Namco tool
 ---
 
 
+---
+
+# 🌐 Blue Protocol: Star Resonance — Server Timers & Events Tracker
+
+**Website:** [https://natsume.io/bpsr/](https://natsume.io/bpsr/)
+**Game:** *Blue Protocol: Star Resonance (BPSR)*
+
+---
+
+## 📖 Overview
+
+This website provides **real-time tracking** of in-game events, resets, and schedules for **Blue Protocol: Star Resonance**.
+It automatically adjusts to your **local timezone** and keeps countdowns **live** and synchronized with the official **server time**.
+
+---
+
+## 🕒 Features
+
+### 🔔 Live Countdown Timers
+
+* Displays **live countdowns** for daily and weekly resets, world events, and limited-time activities.
+* Automatically updates without needing to refresh the page.
+
+### 🌍 Server & Local Time Conversion
+
+* Shows **current server time** and **your local time** side by side.
+* Converts all event times automatically based on your timezone.
+
+### 📅 Event Schedule Overview
+
+Includes countdowns and next occurrence times for:
+
+* **Daily Reset** — Every day at **05:00 AM (Server Time)**
+* **World Boss Crusade** — Daily, **04:00 PM – 10:00 PM**
+* **Guild Hunt** — Fridays to Sundays, **02:00 PM – 04:00 AM**
+* **Guild Dance** — Every Friday, **03:30 PM – 03:30 AM**
+* **Weekly Reset** — Every Monday at **05:00 AM**
+
+### 🔔 Notification Support
+
+> **Note:** The page must remain open for notifications to work properly.
+> Keep the tab active in your browser to receive real-time alerts before major events begin.
+
+---
+
+## ⚙️ Supported Regions
+
+* **Global Server**
+* **CN (China) Server**
+
+Each region displays its own independent time tracking and event schedules.
+
+---
+
+## 🧭 Example Display
+
+| Event       | Frequency                   | Server Time          | Local Time (Auto-adjusted) | Countdown |
+| ----------- | --------------------------- | -------------------- | -------------------------- | --------- |
+| Daily Reset | Every day @ 05:00 AM        | Tue, Nov 4 – 5:00 AM | Tue, Nov 4 – 10:30 AM      | 02h 36m   |
+| World Boss  | Every day @ 04:00 PM        | Tue, Nov 4 – 4:00 PM | Tue, Nov 4 – 9:30 PM       | 13h 36m   |
+| Guild Hunt  | Fri–Sun @ 02:00 PM–04:00 AM | Fri, Nov 7 – 2:00 PM | Fri, Nov 7 – 7:30 PM       | 3d 11h    |
+| Guild Dance | Every Friday @ 03:30 PM     | Fri, Nov 7 – 3:30 PM | Fri, Nov 7 – 9:00 PM       | 3d 13h    |
+
+---
+
+## 🧠 Purpose
+
+This tracker helps **players**, **guilds**, and **event planners** stay organized by:
+
+* Knowing when resets or raids occur.
+* Coordinating guild activities around world events.
+* Avoiding missed rewards or limited-time content.
+
+---
+
+## 🧩 Developer Notes
+
+* Built by the **Natsume.io** community.
+* Designed for simplicity, accuracy, and cross-region support.
+* Times and countdowns are fully synchronized using the game’s **server clock**.
+
+---
+
+## 🔗 Related Resources
+
+* [Official Blue Protocol Site](https://blue-protocol.com/)
+* [Blue Protocol Database (Discord)](https://discord.gg/invite/blueprotocoldb)
+* [Star Resonance Discord](https://discord.gg/starresonance)
+
+---
+
+
