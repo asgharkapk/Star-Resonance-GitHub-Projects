@@ -397,3 +397,51 @@ Click the link above, pick a class, and start sculpting your character’s talen
 
 [1]: https://bpsrtalent.vercel.app/ "BPSR Talent Planner"
 
+
+---
+
+## 🌍 Join the Blue Protocol FR Community
+
+Track your performance, view real-time DPS/HPS rankings, and connect with the French-speaking Blue Protocol community!
+🔗 Visit: [blueprotocol.fr](https://blueprotocol.fr/)
+
+---
+
+### 🔍 Why You’ll Love It
+
+* **Live Leaderboards** — View top DPS, HPS, and fastest clear times for every dungeon.
+* **Simple & Clean Interface** — Filter by dungeon, metric, or class effortlessly.
+* **Community-Driven Project** — Built by fans for fans — independent from the game’s official servers.
+
+---
+
+### ✨ Key Features
+
+* **Top Players – All Dungeons:** See the overall rankings across all activities.
+* **Search by Player or ID:** Check your standing even if you’re not in the top 30.
+* **Discord Integration:** Connect with other FR players and share your results.
+* **DPS App Mentioned:** Linked tools help you track and improve your performance.
+
+---
+
+### 📌 How to Use
+
+1. **Visit** [blueprotocol.fr](https://blueprotocol.fr/)
+2. **Filter** results by dungeon, class, or metric (DPS/HPS).
+3. **Search** for your player name or ID to view your ranking.
+4. **Join** the linked Discord community to discuss strategies and meet other players.
+
+---
+
+### 🚀 Why It’s Worth It
+
+* **Improve Your Gameplay:** Compare your results to top players and optimize your build.
+* **Stay Competitive:** Follow updates and see where you rank after every dungeon run.
+* **Support a Community Project:** Help strengthen the FR Blue Protocol scene and share feedback with other enthusiasts.
+
+---
+
+> “A must-visit hub for every French Blue Protocol player — simple, clear, and packed with useful data.”
+
+---
+
