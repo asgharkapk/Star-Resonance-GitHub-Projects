@@ -160,6 +160,22 @@ Below are some example views of the overlay in action:
 
 ![pso](https://preview.redd.it/verdant-oracle-smite-seems-to-have-good-damage-and-healing-v0-cakpr0lb4wwf1.png?width=320&crop=smart&auto=webp&s=1b08ef2d7fc5f94d22884b2cf58441e334e05f90)
 
+**[Denoder/BPSR-Meter](https://github.com/Denoder/BPSR-Meter)**
+
+* Real-time DPS and combat tracker for *Blue Protocol*.
+* Provides live player and monster damage statistics, DPS calculations, and detailed combat analysis.
+* Tracks group damage with individual player stats and boss/monster breakdowns.
+* Includes combat timers, auto-clear options, and session logging with export capabilities.
+* Built using **Electron**, **React 19**, and **TypeScript** for Windows OS.
+* Uses network packet capture via **Npcap** or **WinDivert**, requiring no modification to the game client.
+* Multilingual support: English and Chinese interface.
+* Auto-update support via GitHub releases ensures users stay on the latest version.
+* Open-source under **AGPL-3.0**, allowing modification and redistribution under the same license.
+* Requires Node.js v22.20.0 or higher for building from source.
+* Early-stage project with limited community adoption; users should check compatibility with the latest game version.
+
+<img width="1458" height="782" alt="image" src="https://github.com/user-attachments/assets/3f949d1e-4293-49ce-a397-b10a0c64c9e9" />
+
 ---
 
 ### **APIs and Integration**
