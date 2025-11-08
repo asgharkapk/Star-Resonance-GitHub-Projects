@@ -101,3 +101,20 @@ For data mining, resource parsing, build calculators, and profit tools.
 ![StarResonanceSimpleDamageDistribution](https://private-user-images.githubusercontent.com/69706187/474307262-935a6edc-f511-4d1f-93c7-4ad54dc26572.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAzNjQzMDUsIm5iZiI6MTc2MDM2NDAwNSwicGF0aCI6Ii82OTcwNjE4Ny80NzQzMDcyNjItOTM1YTZlZGMtZjUxMS00ZDFmLTkzYzctNGFkNTRkYzI2NTcyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEzVDE0MDAwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjNWFlYmJiNmIwYmZmZDAxN2FmZDRmYWE1YjdmOWUxODA0OTZkZGVmNTQwYTZkOWZlNWZkMmEyZjI1NzQzMTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2VMZFeDxLY6sgGUfXpn1dbneUZI-_VS8yJzDR9NR-tI)
 
 ---
+### **Guild / Community Tools**
+
+[**zaichiki/bpsr_guild_roster**](https://github.com/zaichiki/bpsr_guild_roster)
+- A forked version of the *StarResonanceDamageCounter* with added guild management tools.
+* Introduces a Guild Roster window for member tracking, data visualization, and performance analysis.
+* Maintains all original DPS tracking and combat analytics while adding export and management features.
+* Designed to promote transparency, collaboration, and fair play within guilds.
+* Fully open-source under AGPL v3, with respect to community standards and non-invasive data collection.
+
+[**viemahc/bpsr-countdowns**](https://github.com/viemahc/bpsr-countdowns)
+- An event countdown tracker for the *Blue Protocol: Star Resonance* community.
+* Developed specifically for the STARWIND Guild to monitor upcoming in-game events.
+* Displays real-time countdowns for limited-time content, raids, and special seasonal events.
+* Helps guild members coordinate participation and stay synchronized with in-game schedules.
+
+* Some note setup complexity due to Npcap configuration.
+* Generally praised for being a clean, standalone overlay tool.
