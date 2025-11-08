@@ -25,6 +25,7 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 - Based on StarResonanceDamageCounter for real-time DPS analysis.
 - Tracks individual and team damage output during encounters.
 - Helps optimize gameplay by understanding DPS distribution and critical hits.
+![WOW](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/WOW.jpg?raw=true)
 
 **[tom228studio/StarResonanceDamageCounter-master](https://github.com/tom228studio/StarResonanceDamageCounter-master)**
 - Localized Russian fork of the original DamageCounter.
@@ -40,6 +41,7 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * Licensed under AGPL v3
 * Open for community contributions via Issues and Pull Requests
 * Intended for fair use only — do not use for player discrimination or to harm the game community
+![WOW](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/WOW.jpg?raw=true)
 
 [**NeRooNx/BPSR-Meter**](https://github.com/NeRooNx/BPSR-Meter)
 - A real-time DPS/HPS meter overlay for Blue Protocol: Soul Resurrection
