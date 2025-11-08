@@ -44,6 +44,19 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * Intended for fair use only — do not use for player discrimination or to harm the game community
 ![WOW](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/WOW.jpg?raw=true)
 
+**[Madbol20/StarResonanceDps](https://github.com/Madbol20/StarResonanceDps)**
+
+* Advanced DPS analysis and combat data tool for *Star Resonance*.
+* Based on and extended from **StarResonanceDamageCounter**, with additional analysis modules and UI improvements.
+* Captures, parses, and visualizes combat logs for real-time and post-battle review.
+* Offers multiple frontends (WPF/WinForms) for customizable user experience.
+* Designed for player self-improvement and performance benchmarking.
+* Does **not** modify or interfere with the game client — works through network data interpretation.
+* Requires **.NET 8.0** runtime to operate.
+* Distributed under the **AGPL v3.0** open-source license.
+* Aimed at transparency, education, and fair gameplay analytics.
+  ![mad](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/mad.jpg?raw=true)
+
 [**NeRooNx/BPSR-Meter**](https://github.com/NeRooNx/BPSR-Meter)
 - A real-time DPS/HPS meter overlay for Blue Protocol: Soul Resurrection
 - Built with Electron and advanced packet sniffing capabilities
