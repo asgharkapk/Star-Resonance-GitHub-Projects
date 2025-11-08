@@ -1808,18 +1808,7 @@ This project is **completely open-source** — contribute new features, improve 
 
 ---
 
-## data/readme.md
-
-
-
----
-
-
-
-
----
-
-## readme.md
+## backup/readme.md
 
 
 
@@ -2670,5 +2659,16 @@ Stay organized and motivated — perfect for efficient daily play.
 
 ⭐ **Maintained for fans of Blue Protocol: Star Resonance**  
 💙 All links verified and formatted for readability.
+
+
+
+
+---
+
+## data/readme.md
+
+
+
+---
 
 
