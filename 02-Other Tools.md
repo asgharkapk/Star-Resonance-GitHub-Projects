@@ -81,3 +81,23 @@ For data mining, resource parsing, build calculators, and profit tools.
 - Designed for easy use in browsers without additional software.
 
 ---
+### **Data Capture / Packet Tools**
+
+[**narrow-gua/BpsrDetector**](https://github.com/narrow-gua/BpsrDetector)
+- A C#-based packet-sniffing and detection tool for BPSR.
+* Inspired by the original open-source project by Dimole (`StarResonanceDamageCounter`).
+* Allows users to monitor BPSR data packets in real time, useful for developers and mod creators analyzing game behavior.
+* Provides a foundation for future tools involving automated performance tracking and data capture.
+
+**[Remering/starresonance_battle_data_statistics](https://github.com/Remering/starresonance_battle_data_statistics)**
+- Flutter-based project for battle data statistics in Star Resonance.
+- Provides a starting point for building a mobile app with combat data visualization.
+- Includes resources for Flutter development, tutorials, and sample code for beginners.
+
+**[amoeet/StarResonanceSimpleDamageDistribution](https://github.com/amoeet/StarResonanceSimpleDamageDistribution)**
+- Plots incremental damage over time for team analysis.
+- Visualizes DPS trends using DamageCounter logs.
+- Does not capture live data; works with existing datasets.
+![StarResonanceSimpleDamageDistribution](https://private-user-images.githubusercontent.com/69706187/474307262-935a6edc-f511-4d1f-93c7-4ad54dc26572.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAzNjQzMDUsIm5iZiI6MTc2MDM2NDAwNSwicGF0aCI6Ii82OTcwNjE4Ny80NzQzMDcyNjItOTM1YTZlZGMtZjUxMS00ZDFmLTkzYzctNGFkNTRkYzI2NTcyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEzVDE0MDAwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjNWFlYmJiNmIwYmZmZDAxN2FmZDRmYWE1YjdmOWUxODA0OTZkZGVmNTQwYTZkOWZlNWZkMmEyZjI1NzQzMTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2VMZFeDxLY6sgGUfXpn1dbneUZI-_VS8yJzDR9NR-tI)
+
+---
