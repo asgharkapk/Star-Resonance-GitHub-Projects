@@ -19,19 +19,19 @@ def log(message: str):
         f.write(formatted + "\n")
 
 def collect_markdowns(root="."):
-    """Collect all markdown files except excluded ones."""
-    log(f"Scanning directory: {os.path.abspath(root)}")
+    """Collect all markdown files only from the root directory."""
+    log(f"Scanning only root directory: {os.path.abspath(root)}")
+    log(f"Ignoring subfolders under: {Path(root).resolve()}")  # 👈 add this line here
+
     md_files = []
-    for path in Path(root).rglob("*.md"):
+    for path in Path(root).glob("*.md"):  # non-recursive search
         if path.name in EXCLUDE_FILES:
             log(f"Skipping excluded file: {path}")
             continue
-        if ".github" in path.parts:
-            log(f"Skipping .github file: {path}")
-            continue
         md_files.append(path)
+
     md_files_sorted = sorted(md_files)
-    log(f"Found {len(md_files_sorted)} markdown files to combine.")
+    log(f"Found {len(md_files_sorted)} markdown files in root.")
     for p in md_files_sorted:
         log(f" - {p}")
     return md_files_sorted
