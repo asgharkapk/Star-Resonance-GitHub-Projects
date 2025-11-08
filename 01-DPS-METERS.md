@@ -1,0 +1,195 @@
+# Star-Resonance-GitHub-Projects
+
+A compilation of open-source projects for Star Resonance (Blue Protocol).
+These tools cover DPS meters, overlays, bots, asset extraction, and community utilities.
+Use responsibly and follow the game’s terms of service.
+
+---
+
+## 🧮 Core DPS and Data Tools
+
+For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
+
+---
+
+### **DPS Backends**
+
+> Tools that collect combat data directly (via packet sniffing or capture).
+
+**[dmlgzs/StarResonanceDamageCounter](https://github.com/dmlgzs/StarResonanceDamageCounter)**
+- Real-time DPS and combat data sniffer for Star Resonance.
+- Provides live damage statistics, DPS calculations, and detailed combat analysis.
+- No modification of the game client is needed; relies on network packet capture.
+![OG](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/OG.jpg?raw=true)
+
+**[anying1073/StarResonanceDps](https://github.com/anying1073/StarResonanceDps)**
+- Based on StarResonanceDamageCounter for real-time DPS analysis.
+- Tracks individual and team damage output during encounters.
+- Helps optimize gameplay by understanding DPS distribution and critical hits.
+![WOW](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/WOW.jpg?raw=true)
+
+**[tom228studio/StarResonanceDamageCounter-master](https://github.com/tom228studio/StarResonanceDamageCounter-master)**
+- Localized Russian fork of the original DamageCounter.
+- Provides combat analytics, DPS tracking, and skill statistics.
+- Focuses on reliability in real-time battle scenarios with packet capture.
+
+[**DannyDog/StarResonanceDps**](https://github.com/DannyDog/StarResonanceDps)
+* Star Resonance DPS Statistics Tool
+* Based on and ported from the StarResonanceDamageCounter project
+* Does not modify the game client or violate game terms of service
+* Designed to help players analyze combat data and improve performance
+* Requires .NET 8.0 runtime
+* Licensed under AGPL v3
+* Open for community contributions via Issues and Pull Requests
+* Intended for fair use only — do not use for player discrimination or to harm the game community
+![WOW](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/WOW.jpg?raw=true)
+
+**[Madbol20/StarResonanceDps](https://github.com/Madbol20/StarResonanceDps)**
+
+* Advanced DPS analysis and combat data tool for *Star Resonance*.
+* Based on and extended from **StarResonanceDamageCounter**, with additional analysis modules and UI improvements.
+* Captures, parses, and visualizes combat logs for real-time and post-battle review.
+* Offers multiple frontends (WPF/WinForms) for customizable user experience.
+* Designed for player self-improvement and performance benchmarking.
+* Does **not** modify or interfere with the game client — works through network data interpretation.
+* Requires **.NET 8.0** runtime to operate.
+* Distributed under the **AGPL v3.0** open-source license.
+* Aimed at transparency, education, and fair gameplay analytics.
+  ![mad](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/mad.jpg?raw=true)
+
+[**NeRooNx/BPSR-Meter**](https://github.com/NeRooNx/BPSR-Meter)
+- A real-time DPS/HPS meter overlay for Blue Protocol: Soul Resurrection
+- Built with Electron and advanced packet sniffing capabilities
+- Tracks damage and healing per second with 50ms updates
+- Supports dual view modes: Nearby (Top 10 players + you) and Solo (personal stats)
+- Features include channel change detection, class icons, HP bars, and damage contribution visualization
+- Offers rank badges 🥇🥈🥉 and blue highlight for local player
+- Customizable interface with draggable, lockable, and always-on-top transparent window
+- Includes click-through mode for seamless in-game overlay usage
+- Minimalistic and responsive design optimized for real-time gameplay analysis
+![BPSR-Meter](https://raw.githubusercontent.com/NeRooNx/BPSR-Meter/master/medidor.png)
+
+[**ssalihsrz/InfamousBPSRDPSMeter**](https://github.com/ssalihsrz/InfamousBPSRDPSMeter)
+* Infamous Blue Protocol: Star Resonance DPS Meter
+* Real-time damage tracking and performance analysis tool
+* Inspired by similar DPS meters from popular online RPGs
+* Built to provide transparent and fair player statistics
+* Supports customizable overlays and detailed combat summaries
+* Requires .NET runtime and in-game data parsing setup
+* Community-driven project — feedback and contributions are welcome
+* Intended for educational and analytical use only
+
+[**Sola-Ray/BPSR-PSO-SX**](https://github.com/Sola-Ray/BPSR-PSO-SX)
+* Blue Protocol: Star Resonance Plug-in System (PSO-SX)
+* Modular enhancement framework for Star Resonance utilities
+* Includes support for performance tracking, overlays, and UI extensions
+* Focused on stability, modularity, and community plugin development
+* Compatible with various Star Resonance helper tools
+* Written in C# with modern architecture design
+* Licensed under open-source terms for collaborative development
+* For fair and transparent gameplay analytics only
+Below are some example views of the overlay in action:  
+
+<p align="center">
+  <img width="399" height="221" alt="DPS overlay example" src="https://github.com/user-attachments/assets/44cd0ce2-ac2c-4b99-b371-8965ea2086f2" />
+  <br/>
+  <em>Real-time DPS display showing nearby players’ output.</em>
+</p>
+
+<p align="center">
+  <img width="392" height="224" alt="Detailed metrics panel" src="https://github.com/user-attachments/assets/8a5a7e88-1237-4c16-a0f0-f5c0afb3eb91" />
+  <br/>
+  <em>Real-time HPS display showing nearby players’ output.</em>
+</p>
+
+<p align="center">
+  <img width="718" height="903" alt="Extended Sola view" src="https://github.com/user-attachments/assets/c49598b7-cc21-45e6-867a-0639d847680b" />
+  <br/>
+  <em>“Sola Extended” view with enhanced tracking and session analytics.</em>
+</p>
+
+[**woheedev/bptimer**](https://github.com/woheedev/bptimer)
+* Blue Protocol Timer Utility
+* Comprehensive time tracking and boss/event scheduling tool
+* Supports multiple regions and synchronized server times
+* Built with web-based UI for easy access and portability
+* Features countdowns, alerts, and world boss tracking
+* Ideal for players and communities organizing events
+* Continuously updated with global Blue Protocol content
+* Open-source and community-maintained for accuracy and fairness
+
+---
+
+### **DPS Frontends / Visualizers**
+
+> GUI or overlay tools that display DPS data from a backend.
+
+**[Viemean/StarResonance.DPS](https://github.com/Viemean/StarResonance.DPS)**
+- Lightweight frontend for displaying combat data from DamageCounter.
+- Shows team DPS, healing, and skill usage in real-time floating windows.
+- Supports multi-player monitoring and skill distribution analysis.
+![应用截图](https://raw.githubusercontent.com/Viemean/StarResonance.DPS/refs/heads/master/Assets/img.png)
+
+**[mrsnakke/BPSR-Meter](https://github.com/mrsnakke/BPSR-Meter)**
+- English-language desktop DPS/HPS meter overlay.
+- Displays total damage, healing, contributions, critical hit rate, and max DPS.
+- Non-intrusive; overlays game window without affecting gameplay.
+![Meter](https://raw.githubusercontent.com/mrsnakke/BPSR-Meter/master/portada.png)
+
+**[CKylinMC/StarResonanceDamageCounterOverlay](https://github.com/CKylinMC/StarResonanceDamageCounterOverlay)**
+- Tauri-based frontend for displaying DPS and combat data.
+- Works as a companion to DamageCounter backend, visualizing real-time statistics.
+- Lightweight and responsive with simple UI controls for team data tracking.
+![StarResonanceDamageCounterOverlay](https://raw.githubusercontent.com/ckylinmc/StarResonanceDamageCounterOverlay/main/assets/scrshot.png)
+
+**[ziqi-rgb/StarResonanceDamageCounter-overlay](https://github.com/ziqi-rgb/StarResonanceDamageCounter-overlay)**
+- Displays live combat data in floating windows without capturing packets.
+- Syncs with DamageCounter for DPS, team stats, and skill information.
+- Supports nickname edits and multiple independent windows for characters.
+- Floating window overlay for DamageCounter API data.
+- Shows team metrics, skill usage, and individual tracking.
+- Customizable window layout and nickname settings.
+
+**[tom228studio/StarResonanceDamageCounter-overlay-main](https://github.com/tom228studio/StarResonanceDamageCounter-overlay-main)**
+- Russian version of DamageCounter overlay supporting team monitoring.
+- Allows UI customization like transparency, colors, and nickname edits.
+- Displays skill statistics, DPS contribution, and supports multi-window layouts.
+
+---
+
+### **Overlay Utilities**
+
+[**Chase-Simmons/BPSR-PSO**](https://github.com/Chase-Simmons/BPSR-PSO)
+* Blue Protocol: Star Resonance - Per Second Overlay (PSO) provides a GUI to track DPS/HPS for nearby players.
+* Standalone packet analyzer that does not modify BPSR files.
+* Built with Node.js and Npcap for real-time combat data tracking.
+**Pros:**
+* Non-invasive and does not require modifying game files.
+* Offers clear, visual DPS/HPS metrics.
+* Easy setup for developers (Node.js + npm).
+**Cons:**
+* Requires Npcap installation with WinPcap API compatibility.
+* Windows-only (Npcap dependency).
+* Might need admin rights for packet capture.
+**User comments:**
+* Users report it works reliably for monitoring nearby player performance.
+
+![pso](https://preview.redd.it/verdant-oracle-smite-seems-to-have-good-damage-and-healing-v0-cakpr0lb4wwf1.png?width=320&crop=smart&auto=webp&s=1b08ef2d7fc5f94d22884b2cf58441e334e05f90)
+
+**[Denoder/BPSR-Meter](https://github.com/Denoder/BPSR-Meter)**
+
+* Real-time DPS and combat tracker for *Blue Protocol*.
+* Provides live player and monster damage statistics, DPS calculations, and detailed combat analysis.
+* Tracks group damage with individual player stats and boss/monster breakdowns.
+* Includes combat timers, auto-clear options, and session logging with export capabilities.
+* Built using **Electron**, **React 19**, and **TypeScript** for Windows OS.
+* Uses network packet capture via **Npcap** or **WinDivert**, requiring no modification to the game client.
+* Multilingual support: English and Chinese interface.
+* Auto-update support via GitHub releases ensures users stay on the latest version.
+* Open-source under **AGPL-3.0**, allowing modification and redistribution under the same license.
+* Requires Node.js v22.20.0 or higher for building from source.
+* Early-stage project with limited community adoption; users should check compatibility with the latest game version.
+
+<img width="1458" height="782" alt="image" src="https://github.com/user-attachments/assets/3f949d1e-4293-49ce-a397-b10a0c64c9e9" />
+
+---
