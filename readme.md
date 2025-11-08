@@ -20,6 +20,7 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 - Real-time DPS and combat data sniffer for Star Resonance.
 - Provides live damage statistics, DPS calculations, and detailed combat analysis.
 - No modification of the game client is needed; relies on network packet capture.
+![OG](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/OG.jpg?raw=true)
 
 **[anying1073/StarResonanceDps](https://github.com/anying1073/StarResonanceDps)**
 - Based on StarResonanceDamageCounter for real-time DPS analysis.
