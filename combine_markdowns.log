@@ -508,3 +508,32 @@
 [2025-11-08 05:17:48 UTC] ✅ Successfully wrote combined markdown to: /home/runner/work/Star-Resonance-GitHub-Projects/Star-Resonance-GitHub-Projects/README.md
 [2025-11-08 05:17:48 UTC] 🟩 Markdown combination process completed successfully.
 [2025-11-08 05:17:48 UTC] ======================================================================
+[2025-11-08 05:18:52 UTC] ======================================================================
+[2025-11-08 05:18:52 UTC] 🟢 Starting Markdown Combination Process
+[2025-11-08 05:18:52 UTC] Script path: /home/runner/work/Star-Resonance-GitHub-Projects/Star-Resonance-GitHub-Projects/.github/scripts/combine_markdowns.py
+[2025-11-08 05:18:52 UTC] Output file: /home/runner/work/Star-Resonance-GitHub-Projects/Star-Resonance-GitHub-Projects/README.md
+[2025-11-08 05:18:52 UTC] Scanning only root directory: /home/runner/work/Star-Resonance-GitHub-Projects/Star-Resonance-GitHub-Projects
+[2025-11-08 05:18:52 UTC] Ignoring subfolders under: /home/runner/work/Star-Resonance-GitHub-Projects/Star-Resonance-GitHub-Projects
+[2025-11-08 05:18:52 UTC] Skipping excluded file: README.md
+[2025-11-08 05:18:52 UTC] Found 8 markdown files in root.
+[2025-11-08 05:18:52 UTC]  - 01-DPS-METERS.md
+[2025-11-08 05:18:52 UTC]  - 02-Other Tools.md
+[2025-11-08 05:18:52 UTC]  - 03-Automation (Fishing).md
+[2025-11-08 05:18:52 UTC]  - 04-Translation.md
+[2025-11-08 05:18:52 UTC]  - 05-Guides.md
+[2025-11-08 05:18:52 UTC]  - 07-BPSR discord list.md
+[2025-11-08 05:18:52 UTC]  - 08-BPSR-WIKIs-WEBSITEs-List.md
+[2025-11-08 05:18:52 UTC]  - 09-BPSR-inveractive-maps-list.md
+[2025-11-08 05:18:52 UTC] Combining markdown files...
+[2025-11-08 05:18:52 UTC] Adding file: 01-DPS-METERS.md
+[2025-11-08 05:18:52 UTC] Adding file: 02-Other Tools.md
+[2025-11-08 05:18:52 UTC] Adding file: 03-Automation (Fishing).md
+[2025-11-08 05:18:52 UTC] Adding file: 04-Translation.md
+[2025-11-08 05:18:52 UTC] Adding file: 05-Guides.md
+[2025-11-08 05:18:52 UTC] Adding file: 07-BPSR discord list.md
+[2025-11-08 05:18:52 UTC] Adding file: 08-BPSR-WIKIs-WEBSITEs-List.md
+[2025-11-08 05:18:52 UTC] Adding file: 09-BPSR-inveractive-maps-list.md
+[2025-11-08 05:18:52 UTC] Finished combining markdown files.
+[2025-11-08 05:18:52 UTC] ✅ Successfully wrote combined markdown to: /home/runner/work/Star-Resonance-GitHub-Projects/Star-Resonance-GitHub-Projects/README.md
+[2025-11-08 05:18:52 UTC] 🟩 Markdown combination process completed successfully.
+[2025-11-08 05:18:52 UTC] ======================================================================
