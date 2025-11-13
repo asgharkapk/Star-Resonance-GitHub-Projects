@@ -610,6 +610,17 @@ If you like, I can check the repository in more detail and **write exact steps**
 * It keeps a log of catches in real time and categorises common / rare / mythical fish for statistics and tracking.
 * You should follow the troubleshooting steps if it fails: ensure Python version is correct, run as admin, check screen capture assets match your resolution, and see debug screenshots for what the script sees.
 ---
+[**mofutoshi-ctrl/blue-protocol-mining-bot**](https://github.com/mofutoshi-ctrl/blue-protocol-mining-bot)
+* It’s a Python‑based advanced mining bot for Blue Protocol: Star Resonance called **blue‑protocol‑mining‑bot**, designed to automate in‑game mining tasks.
+* The tool uses an **8‑tier intelligent system** to orchestrate mining actions such as locating ore, executing mining commands, and managing resources.
+* To use it: install Python and dependencies (`requirements.txt`), configure your bot settings in `config.yaml`, and run `main.py` as the entry point.
+* It interacts with the game via UI automation (e.g., simulated clicks or key‑presses) rather than modifying game memory or files directly.
+* Before running, ensure the game window is visible and mining‑zones are accessible so the bot can detect mining nodes and mine them automatically.
+* The bot requires administrator permissions (for automation UI control) and may rely on screen position/configuration matching the game’s mining interface.
+* While running, the bot continuously checks for mining nodes, executes mining cycles, handles resource cooldowns, and loops based on configuration.
+* Use it solely for personal learning/testing in a contained environment; be aware of any potential violation of the game’s Terms of Service.
+---
+
 
 
 ---
