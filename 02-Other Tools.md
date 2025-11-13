@@ -39,9 +39,24 @@ For data mining, resource parsing, build calculators, and profit tools.
 - Supports research and tool development using official game files.
 
 **[HuaChunOXO/StarResonanceModuleSolver](https://github.com/HuaChunOXO/StarResonanceModuleSolver)**
-- Calculates optimal mod setups based on StarResonanceAutoMod.
-- Supports filtering by attribute and class-specific scoring.
-- Helps reduce trial-and-error in mod optimization.
+* This project is a modified version based on **StarResonanceAutoMod**.
+
+* The original **StarResonanceAutoMod** itself was derived from **StarResonanceDamageCounter**.
+
+* Therefore, this project continues to use the **AGPL v3 open-source license**.
+
+* **Quick Start:**
+
+  1. If you haven’t used the above tools before, install **Npcap** from the included archive or download it via the provided link.
+  2. Double-click **模组求解器.exe (Module Solver.exe)**, select your network card, and click **Start Capture**.
+  3. After the capture begins, switching maps, changing channels, or relogging will allow the program to obtain your module data.
+  4. Once modules are captured, you can manually stop the capture, or it will stop automatically after 60 seconds of inactivity.
+  5. Since the program uses an enumeration algorithm, avoid having too many modules; use **Delete Low-Level Modules** to reduce them.
+  6. Set **target** and **excluded attributes** as needed — results will appear under **Target Requirement Plan**.
+  7. After selecting a profession, results will also show under **Profession Attribute Plan** (affected by target/excluded attributes).
+  8. For a cleaner display, you can **export results to a Word file**.
+
+* **Note:** Profession module recommendations follow in-game defaults; if you have specific attribute goals, use the **target/exclusion** options to customize results.
 
 ---
 
@@ -53,9 +68,14 @@ For data mining, resource parsing, build calculators, and profit tools.
 - Provides real-time calculations and power rating for builds.
 
 **[fudiyangjin/StarResonanceAutoMod](https://github.com/fudiyangjin/StarResonanceAutoMod)**
-- Automates mod selection for characters using live network data.
-- Optimizes attribute combinations with C++ algorithms.
-- Supports CPU/GPU modes and provides scoring for recommended mods.
+* This tool captures live network packets from *Star Resonance* to extract in-game module data automatically.
+* It filters and optimizes module combinations using a C++ algorithm core with optional GPU (CUDA/OpenCL) acceleration.
+* Users can target or exclude attributes like “Crit Focus” or “Intellect Boost” to find the best four-module sets.
+* It supports both CPU and GPU builds—run the `.exe` version for quick use or Python source for development.
+* Requires Npcap installed on Windows 10/11 to capture packets from the game client.
+* Basic usage: open CMD, navigate to the folder, and run `.\StarResonanceAutoMod.exe -a -lang en`.
+* For offline analysis, use `.\StarResonanceAutoMod.exe -lv -lang en` after one successful capture.
+* Developers can clone the repo, install dependencies, build C++ extensions, and run `python star_railway_monitor.py -a`.
 
 ---
 
