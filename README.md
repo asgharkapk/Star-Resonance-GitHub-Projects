@@ -484,6 +484,17 @@ For data mining, resource parsing, build calculators, and profit tools.
 * The interface supports filters and viewing by class or gear score, making it easier to pick raid times that suit everyone.
 * No backend is required—the tool works entirely in the browser and syncs using local storage or shared JSON files for groups.
 
+---
+
+[**JordieB/bpsr_labs**](https://github.com/JordieB/bpsr_labs)
+* It is a toolkit for analyzing packet captures from Blue Protocol: Star Resonance, aimed at researchers and advanced users for combat, DPS, and trading‑center data.
+* It decodes network packets (combat events, trading listings) using Protocol Buffers schemas (V2) to transform raw captures into structured data.
+* It calculates DPS metrics with skill‑ and target‑level breakdowns, and can extract trading‑center listing info for market analysis.
+* To use it, clone the repository (`git clone https://github.com/JordieB/bpsr-labs.git`) and navigate into the project folder.
+* Then run the one‑command setup using `poetry run poe setup` to prepare the environment and dependencies.
+* Example commands include `poetry run bpsr-labs decode input.bin output.jsonl` to decode packets, or `poetry run bpsr-labs dps output.jsonl dps_summary.json` to compute DPS.
+* For trade‑center extraction use: `poetry run bpsr-labs trade-decode trading.bin listings.json` to process listings data from capture.
+* The CLI interface is unified; you can run `poetry run bpsr-labs --help` to view all available commands and workflows.
 
 
 ---
