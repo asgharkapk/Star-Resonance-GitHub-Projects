@@ -63,9 +63,14 @@ For data mining, resource parsing, build calculators, and profit tools.
 ### **Build & Optimization Calculators**
 
 **[c0derceejay/unofficial-blueprotocol-star-resonance](https://github.com/c0derceejay/unofficial-blueprotocol-star-resonance)**
-- Community-driven build calculator and sharing platform.
-- Supports all classes, gear, and skill setups with local browser storage.
-- Provides real-time calculations and power rating for builds.
+* **Unofficial Blue Protocol: Star Resonance Build Calculator** is a community tool for creating, analyzing, and sharing character builds.
+* Users can customize stats, equipment, and skills for five classes: Blade Warden, Spell Weaver, Twin Striker, Heavy Smasher, and Fatal Mask.
+* Builds are automatically evaluated for power rating, build type, and difficulty in real time.
+* Community Build Gallery allows browsing, copying, and sharing user-created builds.
+* Fully responsive, browser-based interface with Blue Protocol-themed visuals and animations.
+* All data is stored locally in the browser using `localStorage`; no external servers are needed.
+* Built with pure HTML, CSS, and JavaScript, compatible with modern browsers on desktop and mobile.
+* To use: open `index.html` in a browser, navigate to Build Builder to create builds, and explore community builds in the gallery.
 
 **[fudiyangjin/StarResonanceAutoMod](https://github.com/fudiyangjin/StarResonanceAutoMod)**
 * This tool captures live network packets from *Star Resonance* to extract in-game module data automatically.
