@@ -48,12 +48,12 @@ jobs:
         run: |
           echo "===== Checking for changes ====="
           git status
-          git diff --stat README.md || echo "No diff available."
+          git diff --stat README.md list.html || echo "No diff available."
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add README.md combine_markdowns.log || echo "Nothing to add"
+          git add README.md combine_markdowns.log list.html || echo "Nothing to add"
           git commit -m "Auto-update combined README.md [skip ci]" || echo "No changes to commit"
           git push || echo "Nothing to push"
 
