@@ -215,41 +215,30 @@ Below are some example views of the overlay in action:
 ![](https://files.catbox.moe/sx6atv.png)
 ---
 [**BPSR-PSO-upd**](https://github.com/cute5051/BPSR-PSO-upd)
-Blue Protocol: Star Resonance - Per Second Overlay (BPSR-PSO) is a standalone GUI application that tracks DPS/HPS for nearby players by analyzing network packets in transit. It does not modify the game or interact directly with game files.
-
+- Blue Protocol: Star Resonance - Per Second Overlay (BPSR-PSO) is a standalone GUI application that tracks DPS/HPS for nearby players by analyzing network packets in transit. It does not modify the game or interact directly with game files.
 **Setup & Installation:**
-
 1. Install [Node.js](https://nodejs.org/) (npm included).
 2. Install Npcap (installer in `/resources` folder; enable "WinPcap API-compatible Mode").
 3. Clone the repository: `git clone https://github.com/Chase-Simmons/BPSR-PSO.git`
 4. Navigate to the folder and install dependencies: `npm install`
-
 **Running:**
-
 * Run Npcap installer and start the application.
 * Latest release: [BPSR-PSO releases](https://github.com/cute5051/BPSR-PSO-upd/releases/latest)
-
 **Features:**
-
 * Main window for monitoring DPS/HPS.
 * Monster list overview.
 * Skill detail view (click DPS blocks to open).
 * Settings accessible from main window.
-
 **Note:** Designed by the developer for personal use, inspired by TERA Online's Shinra meter.
-
 **License:** AGPL-3.0
 Main window\
-![main.png](resources/main.png)
-
+![main.png](https://raw.githubusercontent.com/cute5051/BPSR-PSO-upd/refs/heads/master/resources/main.png)
 Monster list\
-![monster-lists.png](resources/monster-lists.png)
-
+![monster-lists.png](https://raw.githubusercontent.com/cute5051/BPSR-PSO-upd/refs/heads/master/resources/monster-lists.png)
 Settings in Main window\
-![settings.png](resources/settings.png)
+![settings.png](https://raw.githubusercontent.com/cute5051/BPSR-PSO-upd/refs/heads/master/resources/settings.png)
+![skills-details.png](https://raw.githubusercontent.com/cute5051/BPSR-PSO-upd/refs/heads/master/resources/skills-details.png)
 
-Skill details window(open by clicking on the block with dps)\
-![skills-details.png](resources/skills-details.png)
 ---
 [**caaatto/BlueMeter**](https://github.com/caaatto/BlueMeter)
 * It’s a desktop tool called **BlueMeter** for Blue Protocol: Star Resonance that analyses real‑time combat data (DPS/HPS etc) by capturing network packets and presenting them as overlay stats.
