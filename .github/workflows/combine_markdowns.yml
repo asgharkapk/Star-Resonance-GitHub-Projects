@@ -31,6 +31,9 @@ jobs:
           pwd
           echo "Files in repo root:"
           ls -al
+          
+      - name: Install markdown library
+        run: pip install markdown
 
       - name: 🧩 Run combine_markdowns script with logging
         run: |
