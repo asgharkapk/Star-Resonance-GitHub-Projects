@@ -230,7 +230,19 @@ For data mining, resource parsing, build calculators, and profit tools.
 * Because it uses raw packet capture, administrator privileges and a compatible capture driver are required.
 * Use it responsibly—monitoring is passive and unintrusive, but always comply with game terms of service.
 ---
-
+[**fishing-dev-sm/bpsr_automodule**](https://github.com/fishing-dev-sm/bpsr_automodule)
+1. The project is called **“BPSR 星痕共鸣 模组 OCR 优化器”**, a Python + Flask + OpenCV tool for the game Blue Protocol: Star Resonance (BPSR), intended to automatically recognize module attributes and compute optimal equipment combos.
+2. It supports dual modes: a command‑line version and a modern web UI (Flask) version that runs locally at `http://localhost:5000`.
+3. Core Features: smart OCR (image preprocessing, multi‑strategy text detection, handling formats like “+9”), attribute name matching, and recipe/combination optimization (up to 4 modules, multi‑objective).
+4. In Web UI you can drag/drop screenshots, see recognition results, visualize best combinations, export results as JSON. In CLI you place screenshots into a folder and run a Python script.
+5. Configuration files let you adjust ROI (regions of interest), precision for OCR, monitor dimensions, number of crafts, etc. Files include `screen_config.py`, `detection_config.py`, `bot_config.py`.
+6. The optimization algorithm filters low‑value combos (e.g., threshold <16 points sum) and can output best combinations, total benefit, module usage, attribute breakdown.
+7. Deployment: On Windows double‑click `install_windows.bat`, then run `start_webui.bat` or `run_ocr.bat`; On Linux/macOS install dependencies and Tesseract OCR engine then `python web_app.py` or `python module_ocr_optimizer.py`.
+8. The tool claims to be for “mod‑module optimization” in the game (modules = gear augmentations, presumably) and is aimed at game players.
+9. **Suspicion Check**: Because this tool automates recognition and decision‑making for in‑game gear modules, it might incidentally enable or facilitate competitive advantage in the game. This could raise potential issues with the game’s Terms of Service.
+10. Another caution: The tool processes screenshot images of game UI, and although it may not modify game memory, the optimization output might still give players advantage — user discretion advised.
+11. Also, while it is open‑source (MIT license claimed), running unknown scripts (especially automation tools) always pose a risk to game account safety if detected by anti‑cheat systems.
+12. Summary: This is a sophisticated utility for module attribute OCR + optimization in BPSR; if you decide to use it, ensure you back up relevant game data, check game policy, and run in a safe environment.
 
 
 
