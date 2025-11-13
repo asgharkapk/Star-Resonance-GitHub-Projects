@@ -677,7 +677,16 @@ If you like, I can check the repository in more detail and **write exact steps**
 * If the script presses “Exit” instead of “Continue,” restart it and ensure it was launched after the game.
 * Recommended supplies: at least 200 baits and 10 rods for each hour of fishing.
 ---
-
+[**hyuse98/BPSR-Fishing-Bot**](https://github.com/hyuse98/BPSR-Fishing-Bot)
+* BPSR Fishing Bot is an automated fishing tool for Blue Protocol: Star Resonance using Python and image detection.
+* It detects fishing events, plays the fishing minigame, swaps broken rods, and tracks catches automatically.
+* Users control it via hotkeys: F1 to start/pause and F2 to stop the bot.
+* Requires the game in windowed mode at 1920x1080 resolution.
+* Installation: clone the repository and install Python dependencies with `pip install -r requirements.txt`.
+* Run the bot by executing `python main.py` while the game is visible.
+* Configuration allows adjusting detection regions, precision, delays, and state timeouts via files in `src/fishbot/config/`.
+* The bot uses a Finite State Machine architecture to handle different fishing states, with modular detector and controller modules.
+---
 
 
 ---
