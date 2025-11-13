@@ -7,7 +7,7 @@ import markdown
 # ===== SETTINGS =====
 EXCLUDE_FILES = {"README.md"}
 OUTPUT_FILE = Path(__file__).resolve().parents[2] / "README.md"
-HEADER = "# Repository Documentation\n\n"  # optional custom header
+HEADER = "# https://asgharkapk.github.io/star-resonance-module-optimizer/\n\n"  # optional custom header
 SEPARATOR = "\n\n---\n\n"  # separates files in combined output
 LOG_FILE = Path(__file__).resolve().parents[2] / "combine_markdowns.log"
 LIST_HTML_FILE = Path(__file__).resolve().parents[2] / "list.html"
