@@ -377,6 +377,16 @@ For data mining, resource parsing, build calculators, and profit tools.
 * Skill ID → English mapping can be generated with `skill_table_generator.py`.
 * The project is **for educational and research purposes only**, with no support for cheating or violating Terms of Service.
 * All processing is local; users should respect laws and game publisher rights when using this toolkit.
+---
+[**StarResonanceNews**](https://github.com/azmiao/StarResonanceNews)
+* **StarResonanceNews** is a personal bot that pushes official *Star Resonance* game news.
+* Currently, it only works with **YuiChyanBot** for news delivery.
+* The bot parses web page JavaScript to extract news content and metadata.
+* Returned data includes news title, description, images, author, creation time, and unique IDs.
+* Supports **multi-page results**, allowing retrieval of all recent news entries.
+* Developers can use the JSON-like output as a template for secondary development or integration.
+* All processing is local; the bot does not modify game files or interact with gameplay.
+* Intended for personal use to stay updated with official announcements and events.
 
 
 ---
