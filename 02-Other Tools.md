@@ -174,3 +174,15 @@ For data mining, resource parsing, build calculators, and profit tools.
 * Developers can use the JSON-like output as a template for secondary development or integration.
 * All processing is local; the bot does not modify game files or interact with gameplay.
 * Intended for personal use to stay updated with official announcements and events.
+---
+[**Star Resonance Profit Tool**](https://github.com/whbyaoi/star-resonance-profit-tool)
+* Star Resonance Profit Tool is a desktop utility for Blue Protocol: Star Resonance that calculates daily profit using template‑matching of in‑game transaction data. ([GitHub][1])
+* It requires administrator mode to run and expects the game to be set to **1080p resolution** with the Trading Center screen active for data capture. ([GitHub][1])
+* Captured price data is stored in the file `xhgm_prices.json` in the user home directory, and you can edit output/recipes in `/good/templates/items.json`. ([GitHub][1])
+* The tool is built with Go and uses the Wails framework for UI. ([GitHub][1])
+* To run in development mode you must install dependencies (e.g., `go get github.com/go-vgo/robotgo`), then `go mod tidy`, and execute `wails dev`. ([GitHub][1])
+* To build a Windows executable: `wails build -clean -o srpt.exe`. Cross‑platform building is possible via environment variables (`GOOS=windows GOARCH=amd64 …`) targeting Windows/amd64. ([GitHub][1])
+* The tool uses image/template matching of UI elements (rather than data capture from the game’s internal files) to estimate profit, based on the user’s captured market/trading data.
+* Being a third‑party tool, usage is at your own risk; ensure you comply with the game’s Terms of Service and community guidelines when using such utilities.
+
+[1]: https://github.com/whbyaoi/star-resonance-profit-tool "GitHub - whbyaoi/star-resonance-profit-tool: A Star Resonance tool that calculates daily profit based on template matching"
