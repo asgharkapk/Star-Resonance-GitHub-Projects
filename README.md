@@ -6,10 +6,6 @@
 
 ## 01-DPS-METERS.md
 
-
-
----
-
 # Star-Resonance-GitHub-Projects
 
 A compilation of open-source projects for Star Resonance (Blue Protocol).
@@ -211,10 +207,6 @@ Below are some example views of the overlay in action:
 
 ## 02-Other Tools.md
 
-
-
----
-
 ### **APIs and Integration**
 
 > Data endpoints or frameworks to expose, transform, or extend DPS data.
@@ -341,10 +333,6 @@ For data mining, resource parsing, build calculators, and profit tools.
 
 ## 03-Automation (Fishing).md
 
-
-
----
-
 ## 🤖 Bots and Automation
 
 Scripts and bots that automate gameplay actions or provide information.
@@ -447,10 +435,6 @@ Scripts and bots that automate gameplay actions or provide information.
 
 ## 04-Translation.md
 
-
-
----
-
 ### **Localization / Translation / Misc**
 
 [**Down98/BPSREngPatcher**](https://github.com/Down98/BPSREngPatcher)
@@ -473,10 +457,6 @@ Scripts and bots that automate gameplay actions or provide information.
 ---
 
 ## 05-Guides.md
-
-
-
----
 
 ## 📊 Community / Guides / UI Enhancements
 
@@ -506,10 +486,6 @@ Fan-made content, guides, and overlays extending gameplay understanding.
 ---
 
 ## 07-BPSR discord list.md
-
-
-
----
 
 # 🌌 **Blue Protocol & Star Resonance Discord Server Directory**
 
@@ -614,10 +590,6 @@ A detailed list of the most active and resourceful Discord communities dedicated
 ---
 
 ## 08-BPSR-WIKIs-WEBSITEs-List.md
-
-
-
----
 
 # 🌌 Blue Protocol: Star Resonance Resource Compilation
 
@@ -929,10 +901,6 @@ Stay organized and motivated — perfect for efficient daily play.
 ---
 
 ## 09-BPSR-inveractive-maps-list.md
-
-
-
----
 
 🗺️ Complete Guide to the Best *Star Resonance* & *Blue Protocol* Interactive Maps – Resources, Features, and Community Tips
 
