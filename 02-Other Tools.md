@@ -208,3 +208,24 @@ For data mining, resource parsing, build calculators, and profit tools.
 * Example commands include `poetry run bpsr-labs decode input.bin output.jsonl` to decode packets, or `poetry run bpsr-labs dps output.jsonl dps_summary.json` to compute DPS.
 * For trade‑center extraction use: `poetry run bpsr-labs trade-decode trading.bin listings.json` to process listings data from capture.
 * The CLI interface is unified; you can run `poetry run bpsr-labs --help` to view all available commands and workflows.
+---
+
+[**ktsuyao/bpsr-crafting-tracker**](https://github.com/ktsuyao/bpsr-crafting-tracker)
+* It’s a web‑based crafting tracker built with JavaScript and Firebase designed for managing game recipes and materials.
+* Works by letting you add or load recipes from a shared database and then calculates all required materials automatically.
+* Supports nested recipes (“recipe within a recipe”), so sub‑recipes get saved and reused too.
+* You start by cloning the repo, adding your Firebase config, and opening `index.html` in your browser.
+* Once running, you can search or add a recipe, enter desired output quantity, and it computes raw and crafted inputs.
+* The tool stores data in Firestore so different users can contribute and share recipes.
+* Upcoming yield‑aware feature will let you enter how many outputs you want and it adjusts crafts accordingly.
+* Ideal for tracking crafting workflows in games, keeping raw material summaries and organizing recursive recipes.
+---
+
+
+
+
+
+
+
+
+
