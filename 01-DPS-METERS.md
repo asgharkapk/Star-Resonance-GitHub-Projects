@@ -202,3 +202,14 @@ Below are some example views of the overlay in action:
 * Users can clone the repository, install dependencies with `npm install`, and launch with `npm start` in admin mode.
 * The interface allows selection of network devices, starting/stopping captures, clearing stats, and viewing live DPS dashboards.
 * All processing is local; the tool does **not modify game files**, and users must follow community rules while using it.
+---
+[**BPSR_ACT_Plugin**](https://github.com/Garash2k/BPSR_ACT_Plugin)
+* **BPSR_ACT_Plugin** is an Advanced Combat Tracker (ACT) plugin for *Blue Protocol: Star Resonance*.
+* It provides detailed combat analysis, including DPS, death reports, damage by combatant, and individual hit info.
+* Users must install **Advanced Combat Tracker** and **Npcap**, then place the plugin DLL in `%appdata%\Advanced Combat Tracker\Plugins`.
+* The plugin is loaded via ACT’s **Plugins tab**, enabling real-time combat tracking and analytics.
+* Features planned include better device autodetection, class/spec display, zone handling, and improved monster/skill name translations.
+* Uses **SharpPcap**, **PacketDotNet**, and **ZstdSharp.Port** for packet capture and processing.
+* All networking and packet handling code is adapted from **Star Resonance Damage Counter**.
+* The tool is open-source and intended for detailed combat monitoring and research, not for cheating.
+![](https://files.catbox.moe/sx6atv.png)
