@@ -250,3 +250,24 @@ Settings in Main window\
 
 Skill details window(open by clicking on the block with dps)\
 ![skills-details.png](resources/skills-details.png)
+---
+[**caaatto/BlueMeter**](https://github.com/caaatto/BlueMeter)
+* It’s a desktop tool called **BlueMeter** for Blue Protocol: Star Resonance that analyses real‑time combat data (DPS/HPS etc) by capturing network packets and presenting them as overlay stats.
+* It does **not modify the game client or its files**—it passively monitors traffic to compute damage/healing metrics.
+* How it works: you download the release ZIP or build from source (.NET 8.0 required), install and run the application, and it listens to your network adapter via a packet capture driver (e.g., Npcap) to parse combat packets.
+* After launching, the overlay will display your stats such as DPS, HPS, peak damage, contribution percentage and other combat‑related numbers while you play.
+* To use: extract the release to a folder, run `BlueMeter.WPF.exe` (or the built executable), ensure .NET 8.0 runtime is installed, start the game and fight as usual—stats are captured real‑time.
+* Alternatively, for building from source: install .NET 8.0 SDK, clone the repo, build with `dotnet build -c Release`, or `dotnet publish` to generate the executable.
+* The UI is a visible overlay you can move or resize, it reads network packets from your system’s adapter, decodes game events and shows them in meaningful metrics.
+* Users must run it under their own responsibility—while it is non‑invasive (no memory injection or file modding), usage may still carry risk depending on game policy.
+---
+[**wahfcore/bpsr-meter-wahf-edition**](https://github.com/wahfcore/bpsr-meter-wahf-edition)
+* It’s a custom-branded real-time **DPS/HPS meter overlay** for Blue Protocol: Star Resonance.
+* Works on **Windows 10/11** and captures network packets via **Npcap** to track player stats.
+* Displays metrics for **nearby players or solo**, with rank badges and local player highlighting.
+* Overlay updates every **50ms**, supports adjustable scale (100%, 70%, 50%, 30%) and click-through transparency.
+* Uses **Electron framework** for the GUI, with dark theme, HP bars, class icons, and damage visualization.
+* To use: install **Npcap** with WinPcap API-compatible mode and loopback support.
+* Download and extract the **ZIP**, then run `BPSR Meter - WAHF Edition.exe`; overlay appears top-right.
+* Change **game instance or line** to start detection; interact with overlay controls by hovering over buttons.
+---
