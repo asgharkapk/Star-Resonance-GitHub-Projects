@@ -107,3 +107,14 @@ Scripts and bots that automate gameplay actions or provide information.
 * The repository is small and appears to be a personal project rather than a polished commercial tool.
 
 If you like, I can check the repository in more detail and **write exact steps** to set it up (with caveats about risks).
+---
+[**leo2971998/AutoFishingTool-BlueProtocolStarResonance**](https://github.com/leo2971998/AutoFishingTool-BlueProtocolStarResonance)
+* It is a Python‑based automatic fishing tool for Blue Protocol: Star Resonance that casts and reels automatically, detects fish rarity, tracks catches, and can auto‑buy rods and bait.
+* How it works: it uses image‑recognition to detect in‑game UI cues (like fish rarity icons or bait empty prompts) and simulates mouse actions to fish, purchase bait/rods, and log statistics.
+* How to use: install Python 3.12+ (ensure “Add Python to PATH” and pip installed), then run the provided `install.bat` to set up.
+* Then run `run.bat`, make sure the game is running and visible, press F5 to start fishing, F6 to pause, and ESC to stop.
+* The game window must use 16:9 resolution, be in the foreground (not moved), and overlays/streaming software should be disabled.
+* The tool runs in Administrator mode and relies on capturing visible UI elements (screenshots are exported in debug mode if detection fails).
+* It keeps a log of catches in real time and categorises common / rare / mythical fish for statistics and tracking.
+* You should follow the troubleshooting steps if it fails: ensure Python version is correct, run as admin, check screen capture assets match your resolution, and see debug screenshots for what the script sees.
+---
