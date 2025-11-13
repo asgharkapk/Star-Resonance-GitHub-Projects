@@ -24,7 +24,7 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 
 > Tools that collect combat data directly (via packet sniffing or capture).
 
-**[dmlgzs/StarResonanceDamageCounter](https://github.com/dmlgzs/StarResonanceDamageCounter)**
+**[dmlgzs/StarResonanceDamageCounter](https://github.com/dmlgzs/StarResonanceDamageCounter)** **THE OG**
 - Real-time DPS and combat data sniffer for Star Resonance.
 - Provides live damage statistics, DPS calculations, and detailed combat analysis.
 - No modification of the game client is needed; relies on network packet capture.
@@ -221,6 +221,43 @@ Below are some example views of the overlay in action:
 * All networking and packet handling code is adapted from **Star Resonance Damage Counter**.
 * The tool is open-source and intended for detailed combat monitoring and research, not for cheating.
 ![](https://files.catbox.moe/sx6atv.png)
+---
+[**BPSR-PSO-upd**](https://github.com/cute5051/BPSR-PSO-upd)
+Blue Protocol: Star Resonance - Per Second Overlay (BPSR-PSO) is a standalone GUI application that tracks DPS/HPS for nearby players by analyzing network packets in transit. It does not modify the game or interact directly with game files.
+
+**Setup & Installation:**
+
+1. Install [Node.js](https://nodejs.org/) (npm included).
+2. Install Npcap (installer in `/resources` folder; enable "WinPcap API-compatible Mode").
+3. Clone the repository: `git clone https://github.com/Chase-Simmons/BPSR-PSO.git`
+4. Navigate to the folder and install dependencies: `npm install`
+
+**Running:**
+
+* Run Npcap installer and start the application.
+* Latest release: [BPSR-PSO releases](https://github.com/cute5051/BPSR-PSO-upd/releases/latest)
+
+**Features:**
+
+* Main window for monitoring DPS/HPS.
+* Monster list overview.
+* Skill detail view (click DPS blocks to open).
+* Settings accessible from main window.
+
+**Note:** Designed by the developer for personal use, inspired by TERA Online's Shinra meter.
+
+**License:** AGPL-3.0
+Main window\
+![main.png](resources/main.png)
+
+Monster list\
+![monster-lists.png](resources/monster-lists.png)
+
+Settings in Main window\
+![settings.png](resources/settings.png)
+
+Skill details window(open by clicking on the block with dps)\
+![skills-details.png](resources/skills-details.png)
 
 
 ---
