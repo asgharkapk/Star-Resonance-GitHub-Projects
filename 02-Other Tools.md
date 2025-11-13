@@ -139,3 +139,13 @@ For data mining, resource parsing, build calculators, and profit tools.
 
 * Some note setup complexity due to Npcap configuration.
 * Generally praised for being a clean, standalone overlay tool.
+---
+[**ok-star-resonance**](https://github.com/Sanheiii/ok-star-resonance)
+* **ok-star-resonance** automates *Star Trace Resonance* gameplay using image recognition and Windows interface simulation.
+* It does **not read game memory or modify game files**, only simulates user clicks through the UI.
+* The software is **open source, free, and intended for personal learning**, not for commercial use.
+* It supports **fishing and simple resource collection** in-game.
+* Runs at any **16:9 resolution**, windowed or fullscreen, but cannot run in the background.
+* AI detects fish positions and swings the rod accurately; notifications use **PushDeer**.
+* Python source requires **Python 3.12**; run via `python main.py` (release) or `main_debug.py` (debug).
+* Users must follow instructions for **display settings, key bindings, and antivirus exceptions** to ensure proper operation.
