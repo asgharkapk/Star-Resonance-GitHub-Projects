@@ -641,6 +641,26 @@ If you like, I can check the repository in more detail and **write exact steps**
 * While running, the bot continuously checks for mining nodes, executes mining cycles, handles resource cooldowns, and loops based on configuration.
 * Use it solely for personal learning/testing in a contained environment; be aware of any potential violation of the game’s Terms of Service.
 ---
+[**f1shyondrugs/BlueProtocol-Autofarm**](https://github.com/f1shyondrugs/BlueProtocol-Autofarm)
+* It’s an automated fishing bot for Blue Protocol: Star Resonance that uses computer‑vision to detect bobber movement and simulate fishing actions.
+* It detects specific pixel coordinates to identify when a fish bites and then automatically casts, reels, and collects the catch.
+* Features include a transparent always‑on‑top GUI overlay, hotkey controls (F1 to pause/resume, F2 to restart), and a fish counter tracking total catches.
+* Must run at **1920×1080 resolution** since coordinate and color values are hard‑coded for that resolution only.
+* Before starting, install dependencies via `pip install -r requirements.txt`, configure optional Discord webhook for notifications, and run `python fishing.py`.
+* Game window must be visible and focused, no overlays or streaming apps interfering, and the bot runs in Administrator mode to properly simulate input.
+* The bot monitors colors such as orange for bobber movement, gray for catch detection, and uses key presses (‘A’/’D’) for guiding fish when needed.
+* It includes emergency recovery logic: if an unexpected color is detected it resets the process, and users must configure optional Discord webhook and verify screen config.
+---
+[**rdsp04/bpsr-fishing**](https://github.com/rdsp04/bpsr-fishing)
+* It’s a Windows macro script called **BPSR Fishing Macro** for automating fishing in Blue Protocol: Star Resonance.
+* You must set your game window to 1920 × 1080 resolution (fullscreen or windowed) before starting.
+* The script keeps track of catches, fish types, XP gained and session duration.
+* To start, open the game and the macro, then press **F9** to begin fishing and **F10** to stop.
+* The player character must be positioned at a fishing spot and have sufficient rods and bait pre‑checked.
+* The game window must be visible on the main monitor for the macro to work correctly.
+* If the script presses “Exit” instead of “Continue,” restart it and ensure it was launched after the game.
+* Recommended supplies: at least 200 baits and 10 rods for each hour of fishing.
+---
 
 
 
