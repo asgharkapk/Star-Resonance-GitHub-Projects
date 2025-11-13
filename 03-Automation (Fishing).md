@@ -33,12 +33,14 @@ Scripts and bots that automate gameplay actions or provide information.
 - Uses OpenCV and PyAutoGUI for computer vision and input simulation.
 
 [**ArtjomsBogatirjovs/bpsr-fishing**](https://github.com/ArtjomsBogatirjovs/bpsr-fishing)
-- An external auto-fishing system for *Star Resonance* based on image recognition.
-* Interacts only through the visible game UI using Windows API calls—no game memory or file modifications.
-* Uses AI-based fish detection and auto-casting for accurate and efficient fishing cycles.
-* Compatible with all 16:9 resolutions in both fullscreen and windowed mode.
-* Includes detailed troubleshooting for display settings, antivirus conflicts, and input remapping.
-* Focused on safe, educational use—prohibits any commercial redistribution or paid automation services.
+* **Star Resonance AutoFisher** automates fishing in *Star Resonance* using image recognition and Windows API click simulation.
+* It does **not read game memory or modify game files**, interacting only through the visible game interface.
+* The tool works in **any 16:9 resolution**, windowed or fullscreen, but cannot run in the background.
+* AI detects fish positions and performs accurate casting for efficient fishing.
+* Users must follow display and key-binding requirements, and whitelist folders in antivirus/Windows Defender to avoid issues.
+* Python source requires **Python 3.12**; run CPU version with OpenVINO via `python main.py` or `main_debug.py`.
+* Troubleshooting includes hiding character names, adjusting resolution, and ensuring extraction to English-only directories.
+* The project is **open-source, free, and for personal use only**, with all consequences of use borne by the user.
 
 ---
 
