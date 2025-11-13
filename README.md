@@ -201,6 +201,15 @@ Below are some example views of the overlay in action:
 <img width="1458" height="782" alt="image" src="https://github.com/user-attachments/assets/3f949d1e-4293-49ce-a397-b10a0c64c9e9" />
 
 ---
+[**StarResonanceDPS**](https://github.com/cuteSATOU/StarResonanceDPS)
+* **StarResonanceDPS** is an Electron-based third-party tool for real-time DPS tracking and analysis in *Star Resonance*.
+* It captures network packets locally and parses Protocol Buffers data to compute detailed damage statistics.
+* Provides **real-time DPS monitoring**, including normal, critical, and lucky damage, plus historical peak and average DPS.
+* Supports **multi-player tracking** and automatically calculates critical rates and damage distributions.
+* Runs as a **native desktop app** on Windows 10/11, requiring administrator permissions and WinPcap/Npcap for packet capture.
+* Users can clone the repository, install dependencies with `npm install`, and launch with `npm start` in admin mode.
+* The interface allows selection of network devices, starting/stopping captures, clearing stats, and viewing live DPS dashboards.
+* All processing is local; the tool does **not modify game files**, and users must follow community rules while using it.
 
 
 ---
