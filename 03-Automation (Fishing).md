@@ -96,3 +96,14 @@ Scripts and bots that automate gameplay actions or provide information.
 
 ---
 
+[**StarAutoFish script by YHZI**](https://github.com/YHZI/StarAutoFish)
+
+* It’s a Python‑based autofishing script designed for the game Star Resonance (or possibly a variant/related game) — repository includes `autoFish.py`, `getMousePos.py`, and various image assets (e.g., `left.png`, `right.png`, `no_cast.png`).
+* The script likely uses screen image recognition (matching bait/fishing UI visuals, fish icons or fishing indicators) plus simulated mouse clicks to automate the fishing action.
+* The presence of `getMousePos.py` suggests a helper tool to capture screen coordinates for the target UI elements.
+* The image assets like `continueFishing.png`, `use.png`, etc., indicate the script checks for specific in‑game visuals (e.g., “use” button, “no cast” state) and acts accordingly.
+* No README provides full installation or usage steps; you would need Python installed and likely run the script in administrator mode (for screen capture or UI simulation) and ensure the game is visible on screen.
+* Because it automates in‑game actions via UI simulation, usage may conflict with game terms of service—use at your own risk.
+* The repository is small and appears to be a personal project rather than a polished commercial tool.
+
+If you like, I can check the repository in more detail and **write exact steps** to set it up (with caveats about risks).
