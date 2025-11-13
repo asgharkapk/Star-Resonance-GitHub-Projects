@@ -512,6 +512,16 @@ For data mining, resource parsing, build calculators, and profit tools.
 * Upcoming yield‑aware feature will let you enter how many outputs you want and it adjusts crafts accordingly.
 * Ideal for tracking crafting workflows in games, keeping raw material summaries and organizing recursive recipes.
 ---
+[**narrow-gua/BpsrDetector**](https://github.com/narrow-gua/BpsrDetector)
+* It is a C# packet‑capture tool named **BpsrDetector** for Blue Protocol: Star Resonance that captures and processes game network traffic.
+* The tool is based on the open‑source project StarResonanceDamageCounter and re‑implemented in C#.
+* It monitors player character data and updates in real time when you change servers or lines.
+* To use it: clone the GitHub repository, open the Visual Studio solution (`BpsrDetector.sln`), and build the project.
+* Then run the executable with the required WinPcap/Npcap driver installed, ensuring monitoring of the game’s network adapter.
+* Once running, the software listens for packet streams, decodes them for player and combat information, and displays detected data.
+* Because it uses raw packet capture, administrator privileges and a compatible capture driver are required.
+* Use it responsibly—monitoring is passive and unintrusive, but always comply with game terms of service.
+---
 
 
 
