@@ -367,6 +367,16 @@ For data mining, resource parsing, build calculators, and profit tools.
 * AI detects fish positions and swings the rod accurately; notifications use **PushDeer**.
 * Python source requires **Python 3.12**; run via `python main.py` (release) or `main_debug.py` (debug).
 * Users must follow instructions for **display settings, key bindings, and antivirus exceptions** to ensure proper operation.
+---
+[**BlueProtocolStarResonanceDataAnalysis**](https://github.com/Zaarrg/BlueProtocolStarResonanceDataAnalysis)
+* **BlueProtocolStarResonanceDataAnalysis** is a toolkit for extracting and processing game data from *Blue Protocol: Star Resonance*.
+* Currently, it provides a **complete mapping from Skill ID to English names** for core gameplay skills.
+* A small subset of rare or edge-case skills is still marked as WIP; main skills are fully supported.
+* Future updates aim to include **dungeon/world-boss datasets, drop tables, and cross-referencing skill sources**.
+* Users extract raw game data via `bspr_data_extraction_pipline.py`, optionally specifying game DLL and metadata paths.
+* Skill ID → English mapping can be generated with `skill_table_generator.py`.
+* The project is **for educational and research purposes only**, with no support for cheating or violating Terms of Service.
+* All processing is local; users should respect laws and game publisher rights when using this toolkit.
 
 
 ---
