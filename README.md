@@ -268,6 +268,22 @@ Settings in Main window\
 * Download and extract the **ZIP**, then run `BPSR Meter - WAHF Edition.exe`; overlay appears top-right.
 * Change **game instance or line** to start detection; interact with overlay controls by hovering over buttons.
 ---
+[**vegask/BPSR-Meter**](https://github.com/vegask/BPSR-Meter)
+* BPSR Meter is a real‑time DPS/HPS overlay tool for Blue Protocol: Star Resonance, built on top of packet‑capture techniques from earlier meters. ([GitHub][1])
+* It captures network traffic using drivers like Npcap (WinPcap‑compatible mode) to parse combat events without modifying the game client. ([GitHub][2])
+* For end users: download the installer from GitHub Releases, install Npcap first, then run the application (Windows 10/11 supported). ([GitHub][2])
+* For developers: clone the repo, install Node.js v22+, run `npm install`, then build or start in dev mode (`npm run dev`, `npm run build`).
+* The architecture uses Electron + Vite for the renderer UI, Express for API backend, and socket.io for real‑time event updates.
+* At runtime the overlay positions itself (top‑right by default), updates stats every ~50 ms, supports scaling and click‑through transparency, and highlights the local player plus top performers.
+* It resets stats when you change server channels or instances (since new packet streams are detected) and may show “Unknown” for players who joined before the meter started. ([Reddit][3])
+* Note: Because it listens to packets, use at your own risk; community posts mention concerns about security and compatibility with anti‑cheat systems. ([Steam Community][4])
+
+[1]: https://github.com/Fremy-Speeddraw/BPSR-Meter?utm_source=chatgpt.com "Fremy-Speeddraw/BPSR-Meter"
+[2]: https://github.com/Fremy-Speeddraw/BPSR-Meter/releases?utm_source=chatgpt.com "Releases · Fremy-Speeddraw/BPSR-Meter"
+[3]: https://www.reddit.com/r/BlueProtocolPC/comments/1o9wexp/release_bpsr_meter_v100_forked/?utm_source=chatgpt.com "[Release] BPSR Meter v1.0.0 - Forked : r/BlueProtocolPC"
+[4]: https://steamcommunity.com/app/3681810/discussions/0/594036760294469861/?l=russian&utm_source=chatgpt.com "DPS meter - Blue Protocol: Star Resonance"
+---
+
 
 
 ---
