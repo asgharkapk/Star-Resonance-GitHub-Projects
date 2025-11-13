@@ -452,6 +452,17 @@ For data mining, resource parsing, build calculators, and profit tools.
 * Being a third‑party tool, usage is at your own risk; ensure you comply with the game’s Terms of Service and community guidelines when using such utilities.
 
 [1]: https://github.com/whbyaoi/star-resonance-profit-tool "GitHub - whbyaoi/star-resonance-profit-tool: A Star Resonance tool that calculates daily profit based on template matching"
+---
+[**Smoothzy/bpsr-planner**](https://github.com/Smoothzy/bpsr-planner)
+* It’s a web‑based raid planner for Blue Protocol: Star Resonance that helps coordinate players’ availability in different timezones.
+* You go to the live site and register each player with their name, class, gear score, and availability on a 7‑day × 24‑hour grid.
+* The tool detects your local timezone automatically (or you can select one manually) and displays times in both your local time and the server’s time.
+* It supports real‑time multi‑user sync (auto‑sync every 30 seconds) so changes by one user update for all participants.
+* To use it, open **index.html**, fill in player data, mark their free hours, and let the system convert & display availability for your group.
+* Players can edit their own entries, export/import the player list as JSON, and switch between light and dark mode.
+* The interface supports filters and viewing by class or gear score, making it easier to pick raid times that suit everyone.
+* No backend is required—the tool works entirely in the browser and syncs using local storage or shared JSON files for groups.
+
 
 
 ---
