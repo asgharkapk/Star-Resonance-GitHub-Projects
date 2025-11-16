@@ -4,30 +4,30 @@ A curated collection of community sites, tools, and wikis dedicated to **Blue Pr
 
 ---
 
-📘 Blue Protocol: Star Resonance Crafting Tree - luk.gg
-🔗 Website: https://luk.gg/bpsr/guides/life-skills/crafting-tree
+## 📘 Blue Protocol: Star Resonance Crafting Tree - luk.gg
+> 🔗 Website: https://luk.gg/bpsr/guides/life-skills/crafting-tree
 
-🧭 Features
-Interactive crafting tree for all life skills in Blue Protocol: Star Resonance.
-Covers recipes, levels, and required materials for crafting progression.
-Provides quick reference for planning life skill development.
-🧠 Explanation
-This guide shows the full crafting tree for life skills, including alchemy, gathering, and other production systems. It details ingredients, output items, and skill levels.
+### 🧭 Features
+- Interactive crafting tree for all life skills in Blue Protocol: Star Resonance.
+- Covers recipes, levels, and required materials for crafting progression.
+- Provides quick reference for planning life skill development.
+### 🧠 Explanation
+- This guide shows the full crafting tree for life skills, including alchemy, gathering, and other production systems. It details ingredients, output items, and skill levels.
 
-📜 Description
-A comprehensive fan-maintained guide for Blue Protocol: Star Resonance crafting. Helps players plan skill advancement and item creation efficiently.
+### 📜 Description
+- A comprehensive fan-maintained guide for Blue Protocol: Star Resonance crafting. Helps players plan skill advancement and item creation efficiently.
 
-✅ Pros
-Well-organized and easy to navigate.
-Covers all crafting levels and recipes.
-Great for planning and resource management.
-⚠️ Cons
-English-focused, may not cover JP-specific content.
-Dependent on community updates for completeness.
-🔍 Other Information
-Part of the luk.gg suite of Blue Protocol: Star Resonance guides.
-Useful for both beginners and advanced life skill players.
-🔗 Visit luk.gg Crafting Tree »
+### ✅ Pros
+- Well-organized and easy to navigate.
+- Covers all crafting levels and recipes.
+- Great for planning and resource management.
+### ⚠️ Cons
+- English-focused, may not cover JP-specific content.
+- Dependent on community updates for completeness.
+### 🔍 Other Information
+- Part of the luk.gg suite of Blue Protocol: Star Resonance guides.
+- Useful for both beginners and advanced life skill players.
+> 🔗 Visit luk.gg Crafting Tree »
 
 ---
 
