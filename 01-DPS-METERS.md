@@ -249,6 +249,10 @@ Settings in Main window\
 * Alternatively, for building from source: install .NET 8.0 SDK, clone the repo, build with `dotnet build -c Release`, or `dotnet publish` to generate the executable.
 * The UI is a visible overlay you can move or resize, it reads network packets from your system’s adapter, decodes game events and shows them in meaningful metrics.
 * Users must run it under their own responsibility—while it is non‑invasive (no memory injection or file modding), usage may still carry risk depending on game policy.
+<img src="https://raw.githubusercontent.com/caaatto/BlueMeter/refs/heads/main/BlueMeter.Assets/Images/dpsMeter.png" alt="DPS Meter" width="200" />
+<img src="https://raw.githubusercontent.com/caaatto/BlueMeter/refs/heads/main/BlueMeter.Assets/Images/menuView.png" alt="Menu" width="400" />
+<img src="https://raw.githubusercontent.com/caaatto/BlueMeter/refs/heads/main/BlueMeter.Assets/Images/Settings.png" alt="Settings" width="300" />
+
 ---
 [**wahfcore/bpsr-meter-wahf-edition**](https://github.com/wahfcore/bpsr-meter-wahf-edition)
 * It’s a custom-branded real-time **DPS/HPS meter overlay** for Blue Protocol: Star Resonance.
