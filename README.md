@@ -794,6 +794,22 @@ Fan-made content, guides, and overlays extending gameplay understanding.
 
 # send any spreadsheets you know to be included
 
+- BPSR Resources:
+* https://docs.google.com/document/u/0/d/1LBmaUTWGeTz42XJTxvbjpxHSUVAzg08ZiyOOr7tqfUU
+
+* Flower Document: 
+- https://docs.google.com/spreadsheets/d/1oQeh3xKwLLgIdPFfFx_ecmGCMerFv_FVDrrceGZ3UzA
+
+- Goblin Masters Glitch
+* https://www.bilibili.com/video/BV1MLWQzqEio/
+* Seems to be a trick where you don’t break his shield too soon though.
+
+- Class Suffixes
+* https://docs.google.com/spreadsheets/d/1pH9VxypGG85T1TVHQnUrZnSIktWHR21xhLUTM0z4UCY
+
+* All Cosmetic list:
+- https://docs.google.com/spreadsheets/d/1hMHeYvF1Adj5f9tAq3TDdcIwkSI73CRsyZldAUpnZxM
+
 
 ---
 
