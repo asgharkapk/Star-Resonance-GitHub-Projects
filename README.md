@@ -86,6 +86,10 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * Requires .NET runtime and in-game data parsing setup
 * Community-driven project — feedback and contributions are welcome
 * Intended for educational and analytical use only
+![pic1](https://raw.githubusercontent.com/ssalihsrz/InfamousBPSRDPSMeter/refs/heads/main/screenshots/main-interface.jpg)
+![pic2](https://raw.githubusercontent.com/ssalihsrz/InfamousBPSRDPSMeter/refs/heads/main/screenshots/player-details.jpg)
+![pic3](https://raw.githubusercontent.com/ssalihsrz/InfamousBPSRDPSMeter/refs/heads/main/screenshots/session-management.jpg)
+![pic4](https://raw.githubusercontent.com/ssalihsrz/InfamousBPSRDPSMeter/refs/heads/main/screenshots/team-overview.jpg)
 
 [**Sola-Ray/BPSR-PSO-SX**](https://github.com/Sola-Ray/BPSR-PSO-SX)
 * Blue Protocol: Star Resonance Plug-in System (PSO-SX)
