@@ -656,18 +656,6 @@ Scripts and bots that automate gameplay actions or provide information.
 
 ---
 
-### **Mod / Attribute Optimization**
-
-[**fishing-dev-sm/bpsr_automodule**](https://github.com/fishing-dev-sm/bpsr_automodule)
-- A comprehensive OCR-powered optimizer for *BPSR* modules and attributes.
-* Uses Python, Flask, and OpenCV to analyze screenshots and optimize mod setups.
-* Offers a modern Web UI for drag-and-drop image uploads, real-time recognition, and result visualization.
-* Employs multi-strategy OCR recognition, multi-objective optimization, and intelligent filtering to find best attribute combinations.
-* Cross-platform support for Windows, macOS, and Linux with one-click setup scripts and JSON result exports.
-* Designed for players and theorycrafters seeking efficient builds without manually comparing modules.
-
----
-
 ### **Chat, Alerts, and Notifications**
 
 **[EricHongXDD/nonebot-star-resonance-plugin](https://github.com/EricHongXDD/nonebot-star-resonance-plugin)**
