@@ -434,26 +434,6 @@ For data mining, resource parsing, build calculators, and profit tools.
 - Extracts combat, assets, and protocol information for analysis.
 - Supports research and tool development using official game files.
 
-**[HuaChunOXO/StarResonanceModuleSolver](https://github.com/HuaChunOXO/StarResonanceModuleSolver)**
-* This project is a modified version based on **StarResonanceAutoMod**.
-
-* The original **StarResonanceAutoMod** itself was derived from **StarResonanceDamageCounter**.
-
-* Therefore, this project continues to use the **AGPL v3 open-source license**.
-
-* **Quick Start:**
-
-  1. If you haven’t used the above tools before, install **Npcap** from the included archive or download it via the provided link.
-  2. Double-click **模组求解器.exe (Module Solver.exe)**, select your network card, and click **Start Capture**.
-  3. After the capture begins, switching maps, changing channels, or relogging will allow the program to obtain your module data.
-  4. Once modules are captured, you can manually stop the capture, or it will stop automatically after 60 seconds of inactivity.
-  5. Since the program uses an enumeration algorithm, avoid having too many modules; use **Delete Low-Level Modules** to reduce them.
-  6. Set **target** and **excluded attributes** as needed — results will appear under **Target Requirement Plan**.
-  7. After selecting a profession, results will also show under **Profession Attribute Plan** (affected by target/excluded attributes).
-  8. For a cleaner display, you can **export results to a Word file**.
-
-* **Note:** Profession module recommendations follow in-game defaults; if you have specific attribute goals, use the **target/exclusion** options to customize results.
-
 ---
 
 ### **Build & Optimization Calculators**
@@ -467,16 +447,6 @@ For data mining, resource parsing, build calculators, and profit tools.
 * All data is stored locally in the browser using `localStorage`; no external servers are needed.
 * Built with pure HTML, CSS, and JavaScript, compatible with modern browsers on desktop and mobile.
 * To use: open `index.html` in a browser, navigate to Build Builder to create builds, and explore community builds in the gallery.
-
-**[fudiyangjin/StarResonanceAutoMod](https://github.com/fudiyangjin/StarResonanceAutoMod)**
-* This tool captures live network packets from *Star Resonance* to extract in-game module data automatically.
-* It filters and optimizes module combinations using a C++ algorithm core with optional GPU (CUDA/OpenCL) acceleration.
-* Users can target or exclude attributes like “Crit Focus” or “Intellect Boost” to find the best four-module sets.
-* It supports both CPU and GPU builds—run the `.exe` version for quick use or Python source for development.
-* Requires Npcap installed on Windows 10/11 to capture packets from the game client.
-* Basic usage: open CMD, navigate to the folder, and run `.\StarResonanceAutoMod.exe -a -lang en`.
-* For offline analysis, use `.\StarResonanceAutoMod.exe -lv -lang en` after one successful capture.
-* Developers can clone the repo, install dependencies, build C++ extensions, and run `python star_railway_monitor.py -a`.
 
 ---
 
@@ -626,19 +596,6 @@ For data mining, resource parsing, build calculators, and profit tools.
 * Because it uses raw packet capture, administrator privileges and a compatible capture driver are required.
 * Use it responsibly—monitoring is passive and unintrusive, but always comply with game terms of service.
 ---
-[**fishing-dev-sm/bpsr_automodule**](https://github.com/fishing-dev-sm/bpsr_automodule)
-1. The project is called **“BPSR 星痕共鸣 模组 OCR 优化器”**, a Python + Flask + OpenCV tool for the game Blue Protocol: Star Resonance (BPSR), intended to automatically recognize module attributes and compute optimal equipment combos.
-2. It supports dual modes: a command‑line version and a modern web UI (Flask) version that runs locally at `http://localhost:5000`.
-3. Core Features: smart OCR (image preprocessing, multi‑strategy text detection, handling formats like “+9”), attribute name matching, and recipe/combination optimization (up to 4 modules, multi‑objective).
-4. In Web UI you can drag/drop screenshots, see recognition results, visualize best combinations, export results as JSON. In CLI you place screenshots into a folder and run a Python script.
-5. Configuration files let you adjust ROI (regions of interest), precision for OCR, monitor dimensions, number of crafts, etc. Files include `screen_config.py`, `detection_config.py`, `bot_config.py`.
-6. The optimization algorithm filters low‑value combos (e.g., threshold <16 points sum) and can output best combinations, total benefit, module usage, attribute breakdown.
-7. Deployment: On Windows double‑click `install_windows.bat`, then run `start_webui.bat` or `run_ocr.bat`; On Linux/macOS install dependencies and Tesseract OCR engine then `python web_app.py` or `python module_ocr_optimizer.py`.
-8. The tool claims to be for “mod‑module optimization” in the game (modules = gear augmentations, presumably) and is aimed at game players.
-9. **Suspicion Check**: Because this tool automates recognition and decision‑making for in‑game gear modules, it might incidentally enable or facilitate competitive advantage in the game. This could raise potential issues with the game’s Terms of Service.
-10. Another caution: The tool processes screenshot images of game UI, and although it may not modify game memory, the optimization output might still give players advantage — user discretion advised.
-11. Also, while it is open‑source (MIT license claimed), running unknown scripts (especially automation tools) always pose a risk to game account safety if detected by anti‑cheat systems.
-12. Summary: This is a sophisticated utility for module attribute OCR + optimization in BPSR; if you decide to use it, ensure you back up relevant game data, check game policy, and run in a safe environment.
 
 
 
