@@ -121,6 +121,7 @@ Below are some example views of the overlay in action:
 * Ideal for players and communities organizing events
 * Continuously updated with global Blue Protocol content
 * Open-source and community-maintained for accuracy and fairness
+
 ![timer1](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer1.jpg)
 ![timer2](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer2.jpg)
 ---
