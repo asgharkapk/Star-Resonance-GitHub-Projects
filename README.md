@@ -120,6 +120,9 @@ Below are some example views of the overlay in action:
   <em>“Sola Extended” view with enhanced tracking and session analytics.</em>
 </p>
 
+[**ruleroy/BPSR-PSO-SX**](https://github.com/ruleroy/BPSR-PSO-SX)
+![rsx](https://private-user-images.githubusercontent.com/9062964/519016789-340779d4-0d88-4d9a-b25c-05b6aa7c7da4.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ2NTM3NjYsIm5iZiI6MTc2NDY1MzQ2NiwicGF0aCI6Ii85MDYyOTY0LzUxOTAxNjc4OS0zNDA3NzlkNC0wZDg4LTRkOWEtYjI1Yy0wNWI2YWE3YzdkYTQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMDJUMDUzMTA2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MWE0NTI0YjNjNGQwYmYyMDFiODg1Mjc0NWIyYTU2ZDk3MmNlMjIwMjhiOTJhZmVkZWZiMmQzNGQ0ZjI3MmNiNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.rIpWhKkp0hL97_ykYMS-VT21OwhY2UOoAQjASGW_zcY)
+
 [**woheedev/bptimer**](https://github.com/woheedev/bptimer)
 * Blue Protocol Timer Utility
 * Comprehensive time tracking and boss/event scheduling tool
