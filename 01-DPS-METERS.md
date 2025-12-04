@@ -22,6 +22,16 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 - No modification of the game client is needed; relies on network packet capture.
 ![OG](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/OG.jpg?raw=true)
 
+**[asgharkapk/Star-Resonance-Dps](https://github.com/asgharkapk/Star-Resonance-Dps)**
+**This fork includes:**
+- **more en translations**
+- **fully transparent background in light theme**
+- **not compact theme in [normal branch](https://github.com/asgharkapk/Star-Resonance-Dps/tree/nOrMaL)**
+- **beta test branch: [monster branch](https://github.com/asgharkapk/Star-Resonance-Dps/tree/mOnStEr)**
+
+![dark-compact](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-Dps/refs/heads/cOmPaCt/dark-compact.jpg)
+![light compact](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-Dps/refs/heads/cOmPaCt/light-compact.jpg)
+
 **[anying1073/StarResonanceDps](https://github.com/anying1073/StarResonanceDps)**
 - Based on StarResonanceDamageCounter for real-time DPS analysis.
 - Tracks individual and team damage output during encounters.
