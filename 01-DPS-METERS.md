@@ -47,6 +47,10 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 ![dark-mode](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-Dps/refs/heads/BRANCH_SELECTOR/dark-mode.jpg)
 ![light mode](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-Dps/refs/heads/BRANCH_SELECTOR/light-mode.jpg)
 
+[**Kingvornex/Custom-BPSR-Damage-DPS**](https://github.com/Kingvornex/Custom-BPSR-Damage-DPS)
+![dark-compact](https://raw.githubusercontent.com/Kingvornex/Custom-BPSR-Damage-DPS/refs/heads/compact/dark-compact.jpg)
+![light compact](https://raw.githubusercontent.com/Kingvornex/Custom-BPSR-Damage-DPS/refs/heads/compact/light-compact.jpg)
+
 **[anying1073/StarResonanceDps](https://github.com/anying1073/StarResonanceDps)**
 - Based on StarResonanceDamageCounter for real-time DPS analysis.
 - Tracks individual and team damage output during encounters.
