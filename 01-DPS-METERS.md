@@ -1,5 +1,3 @@
-<img width="960" height="360" alt="image" src="https://github.com/user-attachments/assets/80182607-8ceb-41dd-9907-0eb8765aa04f" /># Star-Resonance-GitHub-Projects
-
 A compilation of open-source projects for Star Resonance (Blue Protocol).
 These tools cover DPS meters, overlays, bots, asset extraction, and community utilities.
 Use responsibly and follow the game’s terms of service.
