@@ -1,5 +1,4 @@
-# https://asgharkapk.github.io/star-resonance-module-optimizer/
-
+# Star-Resonance-GitHub-Projects
 
 
 ---
