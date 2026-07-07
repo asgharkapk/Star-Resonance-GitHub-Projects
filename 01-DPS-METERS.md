@@ -1,7 +1,8 @@
 ## https://bpevents.poofcakes.com/resources
 ## https://bptimer.com
 ## https://github.com/asgharkapk/BPSR-ZDPS
-## https://github.com/asgharkapk/resonance-logs-cn/blob/main/README_EN.md
+## https://github.com/asgharkapk/resonance-logs-cn
+## https://asgharkapk.github.io/star-resonance-module-optimizer
 ---
 
 A compilation of open-source projects for Star Resonance (Blue Protocol).
