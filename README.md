@@ -147,12 +147,13 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * Per-skill breakdown, 3-minute measurement mode with DPS trend graphs, Imagine debuff timer, self buff/stat overlays, food/syrup tracking.
 * Full Japanese / English UI. Installer + portable.
 <p align="center">
-  <img src="docs/images/main.png" alt="Main window — DPS list (semi-transparent overlay)" width="820">
+  <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/main.png" alt="Main window — DPS list (semi-transparent overlay)" width="820">
 </p>
+
 | | |
 |---|---|
-| <img src="docs/images/result-3min.png" alt="3-minute measurement results" width="400"><br>**3-minute measurement results** — Per-character/skill DPS trends and a breakdown pie chart | <img src="docs/images/debuff-timer.png" alt="Imagine debuff timer" width="400"><br>**Imagine debuff timer** — Immunity-debuff remaining time shown with per-character color rings |
-| <img src="docs/images/self-status.png" alt="Self buff/debuff display" width="400"><br>**Self buff/debuff display** — A glanceable list of icons with remaining-time bars | <img src="docs/images/settings.png" alt="Settings panel" width="400"><br>**Settings panel** — Opacity, column visibility, copy templates, and more |
+| <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/result-3min.png" alt="3-minute measurement results" width="400"><br>**3-minute measurement results** — Per-character/skill DPS trends and a breakdown pie chart | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/debuff-timer.png" alt="Imagine debuff timer" width="400"><br>**Imagine debuff timer** — Immunity-debuff remaining time shown with per-character color rings |
+| <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/self-status.png" alt="Self buff/debuff display" width="400"><br>**Self buff/debuff display** — A glanceable list of icons with remaining-time bars | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/settings.png" alt="Settings panel" width="400"><br>**Settings panel** — Opacity, column visibility, copy templates, and more |
 
 
 #### <img src="https://raw.githubusercontent.com/NeRooNx/BPSR-Meter/refs/heads/master/icon.ico" width="64" align="center">[**NeRooNx/BPSR-Meter**](https://github.com/NeRooNx/BPSR-Meter) **[S1]**
