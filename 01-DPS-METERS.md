@@ -1,8 +1,51 @@
-## https://bpevents.poofcakes.com/resources
+## https://bpevents.poofcakes.com/resources 
 ## https://bptimer.com
-## https://github.com/asgharkapk/BPSR-ZDPS
-## https://github.com/asgharkapk/resonance-logs-cn
-## https://asgharkapk.github.io/star-resonance-module-optimizer
+---
+
+## <img src="https://raw.githubusercontent.com/asgharkapk/resonance-logs-cn/refs/heads/main/src-tauri/icons/icon.ico" width="64" align="center"> [asgharkapk/resonance-logs-cn](https://github.com/asgharkapk/resonance-logs-cn) <span style="color:green">[RECOMMENDED]</span>
+forked from fudiyangjin/resonance-logs-cn
+### Changelog
+* **CI/CD:** Added automated GitHub Actions workflow to build the application, create versioned releases, and publish installers, portable ZIPs, and standalone executables.
+* **Documentation:** Completely reorganized and translated the documentation entry point to English, added multilingual navigation, feature previews, improved build instructions, and better formatting.
+* **Translations & Data:** Updated localization and game data, including `SceneName.json`, `MonsterIdNameType.json`, `DbmTable.json`, and `skill_aoyi_icons.json`.
+### **Features Summary**
+* **Compact Theme** – Minimal UI that keeps essential combat information visible while using minimal screen space.
+* **Theme Customization** – Personalize colors, layouts, fonts, and the overall appearance.
+* **Dungeon Mechanics Minimap and Boss BDM** – Interactive minimap overlays for learning mechanics and positioning. 
+* **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
+---
+## <img src="https://github.com/asgharkapk/BPSR-ZDPS/blob/master/BPSR-ZDPS/Resources/MainWindowIcon.png?raw=true" width="64" align="center"> [asgharkapk/BPSR-ZDPS](https://github.com/asgharkapk/BPSR-ZDPS)
+forked from Blue-Protocol-Source/BPSR-ZDPS
+## Changelog
+### Added
+* Automatic GitHub releases via GitHub Actions.
+* Season Strength and Player Imagines display in Healing and Tanking meters.
+* Death counter in Tanking meter.
+* SubProfessions as separate entries for independent coloring support.
+* `SubProfession_Unknown` color entry.
+* Notes for VPN users in README and release notes.
+### Changed
+* Refactored release workflow (`dotnet.yml` → `release.yml`).
+* Updated default settings:
+  * Show Season Strength in meters: Enabled
+  * Show Player Imagines in meters: Enabled
+  * Keep past encounter until next damage: Enabled
+  * Show channel line number in status: Enabled
+  * Show call wipe for encounter on main window: Enabled
+  * Show deaths in Tanking meter: Enabled
+  * BPTimer enabled: Enabled
+  * BPTimer field boss HP reports: Enabled
+  * Display active per second values in meters: Disabled
+  * NPC Taken → Show HP data: Enabled
+  * NPC Taken → Hide max HP: Enabled
+  * NPC Taken → Show HP percent bar: Enabled
+* Updated progress bar colors.
+* Updated profession and sub-profession colors.
+* Updated README and release prerequisites to better highlight required Npcap installation.
+### Removed
+* Historical encounter warning message.
+* "Viewing Historical Encounter Data" button/warning to reduce UI clutter.
+
 ---
 
 A compilation of open-source projects for Star Resonance (Blue Protocol).
