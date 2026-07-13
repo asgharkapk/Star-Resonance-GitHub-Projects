@@ -75,6 +75,7 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 forked from fudiyangjin/resonance-logs-cn
 * **Compact Theme** – Minimal UI that keeps essential combat information visible while using minimal screen space.
 <img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/dps/dps_5.png?raw=true">
+
 * **Theme Customization** – Personalize colors, layouts, fonts, and the overall appearance.
 * **Dungeon Mechanics Minimap and Boss BDM** – Interactive minimap overlays for learning mechanics and positioning.
 <table>
@@ -84,6 +85,7 @@ forked from fudiyangjin/resonance-logs-cn
     <td><img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/minimap/s3_minimap_3.png?raw=true" width="250"></td>
   </tr>
 </table>
+
 * **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
 <img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/monitor/buff_4.png?raw=true">
 
