@@ -79,7 +79,6 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 ![ggg](https://bptimer.com/images/tools/star-resonance-damage-counter-dmlgzs.webp)
 
 #### <img src="https://raw.githubusercontent.com/fudiyangjin/resonance-logs-cn/refs/heads/main/src-tauri/icons/icon.ico" width="64" align="center"> [fudiyangjin/resonance-logs-cn](https://github.com/fudiyangjin/resonance-logs-cn) <span style="color:green">[RECOMMENDED]</span> [S4]
-forked from fudiyangjin/resonance-logs-cn
 * **Compact Theme** – Minimal UI that keeps essential combat information visible while using minimal screen space.
 * <img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/dps/dps_5.png?raw=true">
 * **Theme Customization** – Personalize colors, layouts, fonts, and the overall appearance.
