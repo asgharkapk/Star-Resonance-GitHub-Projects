@@ -2,7 +2,7 @@
 ## https://bptimer.com
 ---
 
-#### <img src="https://raw.githubusercontent.com/asgharkapk/resonance-logs-cn/refs/heads/main/src-tauri/icons/icon.ico" width="64" align="center"> [asgharkapk/resonance-logs-cn](https://github.com/asgharkapk/resonance-logs-cn) <span style="color:green">[RECOMMENDED]</span> [S4]
+#### <img src="https://raw.githubusercontent.com/asgharkapk/resonance-logs-cn/refs/heads/main/src-tauri/icons/icon.ico" width="64" align="center"> [asgharkapk/resonance-logs-cn](https://github.com/asgharkapk/resonance-logs-cn) <span style="color:green">[RECOMMENDED]</span> [S3]
 forked from fudiyangjin/resonance-logs-cn
 ### Changelog
 * **CI/CD:** Added automated GitHub Actions workflow to build the application, create versioned releases, and publish installers, portable ZIPs, and standalone executables.
@@ -71,6 +71,53 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 ![OG](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/OG.jpg?raw=true)
 ![ggg](https://bptimer.com/images/tools/star-resonance-damage-counter-dmlgzs.webp)
 
+#### <img src="https://raw.githubusercontent.com/fudiyangjin/resonance-logs-cn/refs/heads/main/src-tauri/icons/icon.ico" width="64" align="center"> [fudiyangjin/resonance-logs-cn](https://github.com/fudiyangjin/resonance-logs-cn) <span style="color:green">[RECOMMENDED]</span> [S4]
+forked from fudiyangjin/resonance-logs-cn
+* **Compact Theme** – Minimal UI that keeps essential combat information visible while using minimal screen space.
+* **Theme Customization** – Personalize colors, layouts, fonts, and the overall appearance.
+* **Dungeon Mechanics Minimap and Boss BDM** – Interactive minimap overlays for learning mechanics and positioning. 
+* **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
+
+#### <img src="https://raw.githubusercontent.com/Blue-Protocol-Source/BPSR-ZDPS/refs/heads/master/BPSR-ZDPS/Resources/BPSR_Benchmark_Icon.ico" width="64" align="center">[Blue-Protocol-Source/BPSR-ZDPS](https://github.com/Blue-Protocol-Source/BPSR-ZDPS) **[S3]**
+ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It's built on modern frameworks, making it fast and efficient at performing the role of a DPS Meter. It however also packs a lot of additional features in it such as complete Encounter History, Module Optimizer, Log Reporting, Field Boss/Magical Creature Spawn Tracking, Cooldown Tracking, and more.
+
+![1](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_DPSMeter.png)
+![2](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_EncounterHistory.png)
+![3](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_EntityInspector_DamageTab.png)
+![4](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_CooldownPriorityTracker_InGameExample.png)
+![5](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_Integration_BPTimer_SpawnTracker.png)
+![6](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_ModuleOptimizer_Results.png)
+![7](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_Settings_CombatTab.png)
+![8](https://bptimer.com/images/tools/zdps-meter.webp)
+
+#### <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/slint-app/icon.ico" width="64" align="center">[**Rererr/bpsr-checker**](https://github.com/Rererr/bpsr-checker) **[S3]**
+* Built to stay lightweight - focuses on just the features you need during combat and measurement (Rust + Slint).
+* All-in-one (capture + customizable semi-transparent overlay). Passive packet capture - no game-file/memory modification, no data sent.
+* Per-skill breakdown, 3-minute measurement mode with DPS trend graphs, Imagine debuff timer, self buff/stat overlays, food/syrup tracking.
+* Full Japanese / English UI. Installer + portable.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/main.png" alt="Main window — DPS list (semi-transparent overlay)" width="820">
+</p>
+
+| | |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/result-3min.png" alt="3-minute measurement results" width="400"><br>**3-minute measurement results** — Per-character/skill DPS trends and a breakdown pie chart | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/debuff-timer.png" alt="Imagine debuff timer" width="400"><br>**Imagine debuff timer** — Immunity-debuff remaining time shown with per-character color rings |
+| <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/self-status.png" alt="Self buff/debuff display" width="400"><br>**Self buff/debuff display** — A glanceable list of icons with remaining-time bars | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/settings.png" alt="Settings panel" width="400"><br>**Settings panel** — Opacity, column visibility, copy templates, and more |
+
+#### <img src="https://raw.githubusercontent.com/woheedev/bptimer/refs/heads/main/apps/web/static/favicon.ico" width="64" align="center">[**woheedev/bptimer**](https://github.com/woheedev/bptimer) **[S3]**
+* Blue Protocol Timer Utility
+* Comprehensive time tracking and boss/event scheduling tool
+* Supports multiple regions and synchronized server times
+* Built with web-based UI for easy access and portability
+* Features countdowns, alerts, and world boss tracking
+* Ideal for players and communities organizing events
+* Continuously updated with global Blue Protocol content
+* Open-source and community-maintained for accuracy and fairness
+
+![pic](https://bptimer.com/images/tools/bptimer-companion-app.webp)
+![timer1](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer1.jpg)
+![timer2](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer2.jpg)
+
 #### **<img src="https://raw.githubusercontent.com/asgharkapk/Star-Resonance-Dps/refs/heads/cOmPaCt/StarResonanceDpsAnalysis/Assets/ApplicationIcon.ico" width="64" align="center"> [asgharkapk/Star-Resonance-Dps](https://github.com/asgharkapk/Star-Resonance-Dps)** **[S1]**
 **This fork includes:**
 - **more en translations**
@@ -133,21 +180,6 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * Distributed under the **AGPL v3.0** open-source license.
 * Aimed at transparency, education, and fair gameplay analytics.
   ![mad](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/mad.jpg?raw=true)
-
-#### <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/slint-app/icon.ico" width="64" align="center">[**Rererr/bpsr-checker**](https://github.com/Rererr/bpsr-checker) **[S3]**
-* Built to stay lightweight - focuses on just the features you need during combat and measurement (Rust + Slint).
-* All-in-one (capture + customizable semi-transparent overlay). Passive packet capture - no game-file/memory modification, no data sent.
-* Per-skill breakdown, 3-minute measurement mode with DPS trend graphs, Imagine debuff timer, self buff/stat overlays, food/syrup tracking.
-* Full Japanese / English UI. Installer + portable.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/main.png" alt="Main window — DPS list (semi-transparent overlay)" width="820">
-</p>
-
-| | |
-|---|---|
-| <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/result-3min.png" alt="3-minute measurement results" width="400"><br>**3-minute measurement results** — Per-character/skill DPS trends and a breakdown pie chart | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/debuff-timer.png" alt="Imagine debuff timer" width="400"><br>**Imagine debuff timer** — Immunity-debuff remaining time shown with per-character color rings |
-| <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/self-status.png" alt="Self buff/debuff display" width="400"><br>**Self buff/debuff display** — A glanceable list of icons with remaining-time bars | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/settings.png" alt="Settings panel" width="400"><br>**Settings panel** — Opacity, column visibility, copy templates, and more |
-
 
 #### <img src="https://raw.githubusercontent.com/NeRooNx/BPSR-Meter/refs/heads/master/icon.ico" width="64" align="center">[**NeRooNx/BPSR-Meter**](https://github.com/NeRooNx/BPSR-Meter) **[S1]**
 - A real-time DPS/HPS meter overlay for Blue Protocol: Soul Resurrection
@@ -222,32 +254,6 @@ Below are some example views of the overlay in action:
   <br/>
   <em>“Sola Extended” view with enhanced tracking and session analytics.</em>
 </p>
-
-#### <img src="https://raw.githubusercontent.com/woheedev/bptimer/refs/heads/main/apps/web/static/favicon.ico" width="64" align="center">[**woheedev/bptimer**](https://github.com/woheedev/bptimer) **[S3]**
-* Blue Protocol Timer Utility
-* Comprehensive time tracking and boss/event scheduling tool
-* Supports multiple regions and synchronized server times
-* Built with web-based UI for easy access and portability
-* Features countdowns, alerts, and world boss tracking
-* Ideal for players and communities organizing events
-* Continuously updated with global Blue Protocol content
-* Open-source and community-maintained for accuracy and fairness
-
-![pic](https://bptimer.com/images/tools/bptimer-companion-app.webp)
-![timer1](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer1.jpg)
-![timer2](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer2.jpg)
-
-#### <img src="https://raw.githubusercontent.com/Blue-Protocol-Source/BPSR-ZDPS/refs/heads/master/BPSR-ZDPS/Resources/BPSR_Benchmark_Icon.ico" width="64" align="center">[Blue-Protocol-Source/BPSR-ZDPS](https://github.com/Blue-Protocol-Source/BPSR-ZDPS) **[S3]**
-ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It's built on modern frameworks, making it fast and efficient at performing the role of a DPS Meter. It however also packs a lot of additional features in it such as complete Encounter History, Module Optimizer, Log Reporting, Field Boss/Magical Creature Spawn Tracking, Cooldown Tracking, and more.
-
-![1](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_DPSMeter.png)
-![2](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_EncounterHistory.png)
-![3](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_EntityInspector_DamageTab.png)
-![4](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_CooldownPriorityTracker_InGameExample.png)
-![5](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_Integration_BPTimer_SpawnTracker.png)
-![6](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_ModuleOptimizer_Results.png)
-![7](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_Settings_CombatTab.png)
-![8](https://bptimer.com/images/tools/zdps-meter.webp)
 
 #### <img src="https://raw.githubusercontent.com/backaround/BPSR-PSO/refs/heads/windows/resources/app.ico" width="64" align="center">[backaround/BPSR-PSO](https://github.com/backaround/BPSR-PSO) **[S1]**
 Blue Protocol: Star Resonance - Per Second Overlay Provides a useful GUI to track DPS / HPS / DMG Taken for nearby players
