@@ -81,9 +81,18 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 #### <img src="https://raw.githubusercontent.com/fudiyangjin/resonance-logs-cn/refs/heads/main/src-tauri/icons/icon.ico" width="64" align="center"> [fudiyangjin/resonance-logs-cn](https://github.com/fudiyangjin/resonance-logs-cn) <span style="color:green">[RECOMMENDED]</span> [S4]
 forked from fudiyangjin/resonance-logs-cn
 * **Compact Theme** – Minimal UI that keeps essential combat information visible while using minimal screen space.
+<img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/dps/dps_5.png?raw=true">
 * **Theme Customization** – Personalize colors, layouts, fonts, and the overall appearance.
-* **Dungeon Mechanics Minimap and Boss BDM** – Interactive minimap overlays for learning mechanics and positioning. 
+* **Dungeon Mechanics Minimap and Boss BDM** – Interactive minimap overlays for learning mechanics and positioning.
+<table>
+  <tr>
+    <td><img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/minimap/s3_minimap_1.png?raw=true" width="250"></td>
+    <td><img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/minimap/s3_minimap_2.png?raw=true" width="250"></td>
+    <td><img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/minimap/s3_minimap_3.png?raw=true" width="250"></td>
+  </tr>
+</table>
 * **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
+<img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/monitor/buff_4.png?raw=true">
 
 #### <img src="https://raw.githubusercontent.com/Blue-Protocol-Source/BPSR-ZDPS/refs/heads/master/BPSR-ZDPS/Resources/BPSR_Benchmark_Icon.ico" width="64" align="center">[Blue-Protocol-Source/BPSR-ZDPS](https://github.com/Blue-Protocol-Source/BPSR-ZDPS) **[S3]**
 ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It's built on modern frameworks, making it fast and efficient at performing the role of a DPS Meter. It however also packs a lot of additional features in it such as complete Encounter History, Module Optimizer, Log Reporting, Field Boss/Magical Creature Spawn Tracking, Cooldown Tracking, and more.
