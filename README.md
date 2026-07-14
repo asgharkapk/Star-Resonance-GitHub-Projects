@@ -7,6 +7,7 @@
 
 ## https://bpevents.poofcakes.com/resources 
 ## https://bptimer.com
+
 ---
 
 #### <img src="https://raw.githubusercontent.com/asgharkapk/resonance-logs-cn/refs/heads/main/src-tauri/icons/icon.ico" width="64" align="center"> [asgharkapk/resonance-logs-cn](https://github.com/asgharkapk/resonance-logs-cn) <span style="color:green">[RECOMMENDED]</span> [S3]
@@ -20,7 +21,9 @@ forked from fudiyangjin/resonance-logs-cn
 * **Theme Customization** – Personalize colors, layouts, fonts, and the overall appearance.
 * **Dungeon Mechanics Minimap and Boss BDM** – Interactive minimap overlays for learning mechanics and positioning. 
 * **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
+
 ---
+
 #### <img src="https://github.com/asgharkapk/BPSR-ZDPS/blob/master/BPSR-ZDPS/Resources/MainWindowIcon.png?raw=true" width="64" align="center"> [asgharkapk/BPSR-ZDPS](https://github.com/asgharkapk/BPSR-ZDPS) **[S3]**
 forked from Blue-Protocol-Source/BPSR-ZDPS
 ## Changelog
@@ -62,14 +65,14 @@ Use responsibly and follow the game’s terms of service.
 ---
 
 ## 🧮 Core DPS and Data Tools
-
 For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 
 ---
 
 ### **DPS Backends**
-
 > Tools that collect combat data directly (via packet sniffing or capture).
+
+---
 
 #### **<img src="https://raw.githubusercontent.com/DannyDog/StarResonanceDps/refs/heads/en_translation/StarResonanceDpsAnalysis/Assets/favicon.ico" width="64" align="center"> [dmlgzs/StarResonanceDamageCounter](https://github.com/dmlgzs/StarResonanceDamageCounter)** **[THE OG]**
 - Real-time DPS and combat data sniffer for Star Resonance.
@@ -77,6 +80,8 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 - No modification of the game client is needed; relies on network packet capture.
 ![OG](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/OG.jpg?raw=true)
 ![ggg](https://bptimer.com/images/tools/star-resonance-damage-counter-dmlgzs.webp)
+
+---
 
 #### <img src="https://raw.githubusercontent.com/fudiyangjin/resonance-logs-cn/refs/heads/main/src-tauri/icons/icon.ico" width="64" align="center"> [fudiyangjin/resonance-logs-cn](https://github.com/fudiyangjin/resonance-logs-cn) <span style="color:green">[RECOMMENDED]</span> [S4]
 * **Compact Theme** – Minimal UI that keeps essential combat information visible while using minimal screen space.
@@ -94,6 +99,8 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
 * <img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/monitor/buff_4.png?raw=true">
 
+---
+
 #### <img src="https://raw.githubusercontent.com/Blue-Protocol-Source/BPSR-ZDPS/refs/heads/master/BPSR-ZDPS/Resources/BPSR_Benchmark_Icon.ico" width="64" align="center">[Blue-Protocol-Source/BPSR-ZDPS](https://github.com/Blue-Protocol-Source/BPSR-ZDPS) **[S3]**
 ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It's built on modern frameworks, making it fast and efficient at performing the role of a DPS Meter. It however also packs a lot of additional features in it such as complete Encounter History, Module Optimizer, Log Reporting, Field Boss/Magical Creature Spawn Tracking, Cooldown Tracking, and more.
 
@@ -105,6 +112,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 ![6](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_ModuleOptimizer_Results.png)
 ![7](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_Settings_CombatTab.png)
 ![8](https://bptimer.com/images/tools/zdps-meter.webp)
+
+---
 
 #### <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/slint-app/icon.ico" width="64" align="center">[**Rererr/bpsr-checker**](https://github.com/Rererr/bpsr-checker) **[S3]**
 * Built to stay lightweight - focuses on just the features you need during combat and measurement (Rust + Slint).
@@ -120,6 +129,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/result-3min.png" alt="3-minute measurement results" width="400"><br>**3-minute measurement results** — Per-character/skill DPS trends and a breakdown pie chart | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/debuff-timer.png" alt="Imagine debuff timer" width="400"><br>**Imagine debuff timer** — Immunity-debuff remaining time shown with per-character color rings |
 | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/self-status.png" alt="Self buff/debuff display" width="400"><br>**Self buff/debuff display** — A glanceable list of icons with remaining-time bars | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/settings.png" alt="Settings panel" width="400"><br>**Settings panel** — Opacity, column visibility, copy templates, and more |
 
+---
+
 #### <img src="https://raw.githubusercontent.com/woheedev/bptimer/refs/heads/main/apps/web/static/favicon.ico" width="64" align="center">[**woheedev/bptimer**](https://github.com/woheedev/bptimer) **[S3]**
 * Blue Protocol Timer Utility
 * Comprehensive time tracking and boss/event scheduling tool
@@ -133,6 +144,46 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 ![pic](https://bptimer.com/images/tools/bptimer-companion-app.webp)
 ![timer1](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer1.jpg)
 ![timer2](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer2.jpg)
+
+---
+
+#### <img src="" width="64" align="center"> [balrogsxt/StarBox](https://github.com/balrogsxt/StarBox/tree/main) [CN UI only] [S4] [CLOSED SOURCE]
+
+**StarBox** is a PC automation tool for **Star Resonance** that uses **computer vision (YOLO + OCR)** and simulated input to automate various in-game activities.
+
+**Current features:**
+
+* Fully automatic fishing
+* Automatic resource gathering (single and multi-point)
+* One-button combat/farming combos
+* Talent preset switching
+* Automatic dungeon and N6 farming
+* Automatic equipment dismantling
+* Automatic boss farming across channels (elite monsters, bosses, rare creatures)
+* Automatic Roguelike event completion
+* Notification support (WeCom, DingTalk, Lark, QQ, OneBot, etc.)
+
+**Planned features:**
+
+* Automatic Unstable Space
+* Automatic Daily Commissions
+* Fully autonomous character scheduling (logging in/out, fishing, gathering, dungeons, and other routine tasks)
+
+**Notes:**
+
+* The software is **free**, is **not sold anywhere**, and has **no paid version**.
+* It uses an **authorization system**, but access is **not open to the public**.
+* Currently, it is available **only in Simplified Chinese**.
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1501596779471441924/1510932805511548928/e6a54cdb8f63caf454192dd77fe1ed78.png?ex=6a56a514&is=6a555394&hm=9b2020a72932c107743eeff4a3eda13498222fcff14bdc6e2dfad0c26117055d" width="700">
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/balrogsxt/StarBox/refs/heads/main/Assets/client.png" width="700">
+</div>
+
+---
 
 #### **<img src="https://raw.githubusercontent.com/asgharkapk/Star-Resonance-Dps/refs/heads/cOmPaCt/StarResonanceDpsAnalysis/Assets/ApplicationIcon.ico" width="64" align="center"> [asgharkapk/Star-Resonance-Dps](https://github.com/asgharkapk/Star-Resonance-Dps)** **[S1]**
 **This fork includes:**
@@ -160,6 +211,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 ![dark-mode](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-Dps/refs/heads/BRANCH_SELECTOR/dark-mode.jpg)
 ![light mode](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-Dps/refs/heads/BRANCH_SELECTOR/light-mode.jpg)
 
+---
+
 #### **<img src="https://raw.githubusercontent.com/anying1073/StarResonanceDps/refs/heads/master/StarResonanceDpsAnalysis.WPF/Assets/Images/ApplicationIcon.ico" width="64" align="center">[anying1073/StarResonanceDps](https://github.com/anying1073/StarResonanceDps)** **[S2]**
 - Based on StarResonanceDamageCounter for real-time DPS analysis.
 - Tracks individual and team damage output during encounters.
@@ -167,10 +220,14 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 ![WOW](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/WOW.jpg?raw=true)
 ![dddd](https://bptimer.com/images/tools/star-resonance-dps-anying1073.webp)
 
+---
+
 #### **<img src="" width="64" align="center">[tom228studio/StarResonanceDamageCounter-master](https://github.com/tom228studio/StarResonanceDamageCounter-master)** **[S1]**
 - Localized Russian fork of the original DamageCounter.
 - Provides combat analytics, DPS tracking, and skill statistics.
 - Focuses on reliability in real-time battle scenarios with packet capture.
+
+---
 
 #### <img src="https://raw.githubusercontent.com/DannyDog/StarResonanceDps/refs/heads/en_translation/StarResonanceDpsAnalysis/Assets/ApplicationIcon.ico" width="64" align="center">[**DannyDog/StarResonanceDps**](https://github.com/DannyDog/StarResonanceDps) **[S2]**
 * Star Resonance DPS Statistics Tool
@@ -183,6 +240,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 * Intended for fair use only — do not use for player discrimination or to harm the game community
 ![WOW](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/WOW.jpg?raw=true)
 ![aaaaa](https://bptimer.com/images/tools/star-resonance-dps-dannydog.webp)
+
+---
 
 #### **<img src="https://raw.githubusercontent.com/Madbol20/StarResonanceDps/refs/heads/master/StarResonanceDpsAnalysis.WPF/ApplicationIcon.ico" width="64" align="center">[Madbol20/StarResonanceDps](https://github.com/Madbol20/StarResonanceDps)** **[S1]**
 
@@ -197,6 +256,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 * Aimed at transparency, education, and fair gameplay analytics.
   ![mad](https://github.com/asgharkapk/Star-Resonance-GitHub-Projects/blob/main/data/mad.jpg?raw=true)
 
+---
+
 #### <img src="https://raw.githubusercontent.com/NeRooNx/BPSR-Meter/refs/heads/master/icon.ico" width="64" align="center">[**NeRooNx/BPSR-Meter**](https://github.com/NeRooNx/BPSR-Meter) **[S1]**
 - A real-time DPS/HPS meter overlay for Blue Protocol: Soul Resurrection
 - Built with Electron and advanced packet sniffing capabilities
@@ -208,6 +269,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 - Includes click-through mode for seamless in-game overlay usage
 - Minimalistic and responsive design optimized for real-time gameplay analysis
 ![BPSR-Meter](https://raw.githubusercontent.com/NeRooNx/BPSR-Meter/master/medidor.png)
+
+---
 
 #### <img src="https://raw.githubusercontent.com/ssalihsrz/InfamousBPSRDPSMeter/refs/heads/main/icon.ico" width="64" align="center">[**ssalihsrz/InfamousBPSRDPSMeter**](https://github.com/ssalihsrz/InfamousBPSRDPSMeter) **[S1]**
 * Infamous Blue Protocol: Star Resonance DPS Meter
@@ -222,6 +285,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 ![pic2](https://raw.githubusercontent.com/ssalihsrz/InfamousBPSRDPSMeter/refs/heads/main/screenshots/player-details.jpg)
 ![pic3](https://raw.githubusercontent.com/ssalihsrz/InfamousBPSRDPSMeter/refs/heads/main/screenshots/session-management.jpg)
 ![pic4](https://raw.githubusercontent.com/ssalihsrz/InfamousBPSRDPSMeter/refs/heads/main/screenshots/team-overview.jpg)
+
+---
 
 #### <img src="https://raw.githubusercontent.com/Sola-Ray/BPSR-PSO-SX/refs/heads/main/resources/app.ico" width="64" align="center">[**Sola-Ray/BPSR-PSO-SX**](https://github.com/Sola-Ray/BPSR-PSO-SX) **[S1]**
 * Blue Protocol: Star Resonance Plug-in System (PSO-SX)
@@ -252,6 +317,8 @@ Below are some example views of the overlay in action:
   <em>“Sola Extended” view with enhanced tracking and session analytics.</em>
 </p>
 
+---
+
 #### <img src="https://raw.githubusercontent.com/ruleroy/BPSR-PSO-SX/refs/heads/main/resources/app.ico" width="64" align="center">[**ruleroy/BPSR-PSO-SX**](https://github.com/ruleroy/BPSR-PSO-SX) **[S1]**
 <p align="center">
   <img width="399" height="221" alt="DPS overlay example" src="https://github.com/user-attachments/assets/44cd0ce2-ac2c-4b99-b371-8965ea2086f2" />
@@ -271,19 +338,26 @@ Below are some example views of the overlay in action:
   <em>“Sola Extended” view with enhanced tracking and session analytics.</em>
 </p>
 
+---
+
 #### <img src="https://raw.githubusercontent.com/backaround/BPSR-PSO/refs/heads/windows/resources/app.ico" width="64" align="center">[backaround/BPSR-PSO](https://github.com/backaround/BPSR-PSO) **[S1]**
 Blue Protocol: Star Resonance - Per Second Overlay Provides a useful GUI to track DPS / HPS / DMG Taken for nearby players
 
 ![img1](https://private-user-images.githubusercontent.com/54877892/517712889-6fd61fef-57c6-4f3b-96f9-fa866a77d0b8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc1MDE5NjMsIm5iZiI6MTc2NzUwMTY2MywicGF0aCI6Ii81NDg3Nzg5Mi81MTc3MTI4ODktNmZkNjFmZWYtNTdjNi00ZjNiLTk2ZjktZmE4NjZhNzdkMGI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA0VDA0NDEwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1NTVlNjA3MThhYzcxMTdlZmE3YjZkYmM1ZjJiOTc0MTE5MmFiMDI3NzVkZjUzMTAxMzA1MmUwZjM2ZDIwYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.AuROg2LnBmlKJ6HSuTktqkZ6g7bp8NqI6OpaSZwH8jI)
 
+---
+
 #### <img src="https://raw.githubusercontent.com/Denoder/BPSR-Meter/refs/heads/master/icon.ico" width="64" align="center">[Denoder/BPSR-Meter](https://github.com/Denoder/BPSR-Meter) **[S1]**
 A DPS meter for Blue Protocol built with Electron, React 19, and TypeScript. This project is a fork of NeRooNx's BPSR Meter, featuring improved performance with Vite, Tailwind CSS, and optimized DOM updates.
 
+---
+
 ![sss](https://bptimer.com/images/tools/bpsr-meter-denoder.webp)
+
+---
 
 #### <img src="https://raw.githubusercontent.com/seilent/BPSR-ZDPS/refs/heads/master/BPSR-ZDPS/Resources/BPSR_Benchmark_Icon.ico" width="64" align="center">[seilent/BPSR-ZDPS](https://github.com/seilent/BPSR-ZDPS) **[S2]**
 ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It's built on modern frameworks, making it fast and efficient at performing the role of a DPS Meter. It however also packs a lot of additional features in it such as complete Encounter History, Module Optimizer, Log Reporting, Field Boss/Magical Creature Spawn Tracking, Cooldown Tracking, and more.
-
 
 ---
 
