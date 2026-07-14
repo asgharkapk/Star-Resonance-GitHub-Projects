@@ -21,6 +21,7 @@ forked from fudiyangjin/resonance-logs-cn
 * **Theme Customization** – Personalize colors, layouts, fonts, and the overall appearance.
 * **Dungeon Mechanics Minimap and Boss BDM** – Interactive minimap overlays for learning mechanics and positioning. 
 * **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
+### DISOCRD: https://discord.gg/RHeX47wvDU
 
 ---
 
@@ -55,6 +56,7 @@ forked from Blue-Protocol-Source/BPSR-ZDPS
 ### Removed
 * Historical encounter warning message.
 * "Viewing Historical Encounter Data" button/warning to reduce UI clutter.
+### DISOCRD: https://discord.gg/3UTC4pfCyC
 
 ---
 
@@ -99,6 +101,8 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 * **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
 * <img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/monitor/buff_4.png?raw=true">
 
+### DISOCRD: https://discord.gg/RHeX47wvDU
+
 ---
 
 #### <img src="https://raw.githubusercontent.com/Blue-Protocol-Source/BPSR-ZDPS/refs/heads/master/BPSR-ZDPS/Resources/BPSR_Benchmark_Icon.ico" width="64" align="center">[Blue-Protocol-Source/BPSR-ZDPS](https://github.com/Blue-Protocol-Source/BPSR-ZDPS) **[S3]**
@@ -112,6 +116,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 ![6](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_ModuleOptimizer_Results.png)
 ![7](https://github.com/Blue-Protocol-Source/BPSR-ZDPS/raw/master/Screenshots/ZDPS_Settings_CombatTab.png)
 ![8](https://bptimer.com/images/tools/zdps-meter.webp)
+
+### DISOCRD: https://discord.gg/3UTC4pfCyC
 
 ---
 
@@ -129,6 +135,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/result-3min.png" alt="3-minute measurement results" width="400"><br>**3-minute measurement results** — Per-character/skill DPS trends and a breakdown pie chart | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/debuff-timer.png" alt="Imagine debuff timer" width="400"><br>**Imagine debuff timer** — Immunity-debuff remaining time shown with per-character color rings |
 | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/self-status.png" alt="Self buff/debuff display" width="400"><br>**Self buff/debuff display** — A glanceable list of icons with remaining-time bars | <img src="https://raw.githubusercontent.com/Rererr/bpsr-checker/refs/heads/master/docs/images/settings.png" alt="Settings panel" width="400"><br>**Settings panel** — Opacity, column visibility, copy templates, and more |
 
+### DISOCRD: https://discord.gg/exU3gPBx3
+
 ---
 
 #### <img src="https://raw.githubusercontent.com/woheedev/bptimer/refs/heads/main/apps/web/static/favicon.ico" width="64" align="center">[**woheedev/bptimer**](https://github.com/woheedev/bptimer) **[S3]**
@@ -144,6 +152,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 ![pic](https://bptimer.com/images/tools/bptimer-companion-app.webp)
 ![timer1](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer1.jpg)
 ![timer2](https://raw.githubusercontent.com/asgharkapk/Star-Resonance-GitHub-Projects/refs/heads/main/data/timer2.jpg)
+
+### DISOCRD: https://discord.gg/3UTC4pfCyC
 
 ---
 
@@ -182,6 +192,8 @@ ZDPS is a Damage Meter and Companion Tool for Blue Protocol: Star Resonance. It'
 <div align="center">
     <img src="https://raw.githubusercontent.com/balrogsxt/StarBox/refs/heads/main/Assets/client.png" width="700">
 </div>
+
+### DISOCRD: https://discord.gg/KDJ7yFYja
 
 ---
 
