@@ -17,7 +17,7 @@
 
         // Filter only Star Resonance–related repos
         const filtered = repos.filter(r =>
-          /star[-_ ]?resonance/i.test(r.name)
+          /^(star-resonance|resonance-|bpsr-)/i.test(r.name)
         );
 
         if (filtered.length === 0) {
