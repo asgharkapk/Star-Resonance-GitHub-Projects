@@ -8,7 +8,7 @@ forked from fudiyangjin/resonance-logs-cn
 ### Changelog
 * **CI/CD:** Added automated GitHub Actions workflow to build the application, create versioned releases, and publish installers, portable ZIPs, and standalone executables.
 * **Documentation:** Completely reorganized and translated the documentation entry point to English, added multilingual navigation, feature previews, improved build instructions, and better formatting.
-* **Translations & Data:** Updated localization and game data, including `SceneName.json`, `MonsterIdNameType.json`, `DbmTable.json`, and `skill_aoyi_icons.json`.
+* **Translations & Data:** Complete translations powered by the official game client localization, with AI translations filling in missing or untranslated text.
 ### **Features Summary**
 * **Compact Theme** – Minimal UI that keeps essential combat information visible while using minimal screen space.
 * **Theme Customization** – Personalize colors, layouts, fonts, and the overall appearance.
@@ -93,6 +93,8 @@ For real-time combat tracking, analysis, and packet-based DPS/HPS meters.
 
 * **Game UI Replacement** – Use the DPS overlay as your primary combat UI, allowing you to hide the in-game interface for a cleaner experience.
 * <img src="https://github.com/fudiyangjin/resonance-logs-cn/blob/main/doc/shared/img/monitor/buff_4.png?raw=true">
+
+* **Translations & Data:** Complete translations powered by the official game client localization, with AI translations filling in missing or untranslated text.
 
 ### DISOCRD: https://discord.gg/RHeX47wvDU
 
